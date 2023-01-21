@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<menuitem name="testovanie" id="testovanie_base_menu"/>
+	<menuitem name="hráči" id="sdm_player" parent="testovanie_base_menu" action="sdm_player_action"/>
+	<menuitem name="výsledky merania" id="sdm_testingresult" parent="testovanie_base_menu" action="sdm_testingresult_action"/>
+	<menuitem name="sezóny hráčov" id="sdm_playerseason" parent="testovanie_base_menu" action="sdm_playerseason_action"/>
+	<menuitem name="nastavenia" id="sdm_configuration" parent="testovanie_base_menu"/>
+	<menuitem name="sezóny" id="sdm_season" parent="sdm_configuration" action="sdm_season_action"/>
+	<menuitem name="testovania" id="sdm_testing" parent="sdm_configuration" action="sdm_testing_action"/>
+	<menuitem name="discipliny" id="sdm_discipline" parent="sdm_configuration" action="sdm_discipline_action"/>
+	<menuitem name="tímy" id="sdm_team" parent="sdm_configuration" action="sdm_team_action"/>
+	<menuitem name="testy" id="sdm_test" parent="sdm_configuration" action="sdm_test_action"/>
+</odoo>

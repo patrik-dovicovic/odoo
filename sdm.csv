@@ -1,0 +1,23 @@
+model,field,type,comodel_name,inverse_name,string,help,readonly,required,index,default,states,groups,copy,domain,tree,form,selection
+sdm.player,firstname,char,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.player,lastname,char,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.player,birth,date,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.season,name,char,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.season,date_start,date,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.season,date_end,date,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.testing,label,char,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.testing,date,date,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.testing,season_id,Many2one,sdm.season,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.discipline,name,char,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.discipline,aggregation,selection,,,,,,TRUE,,,,,,,TRUE,TRUE,"[('min','min'),('max','max')]"
+sdm.team,name,char,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.team,level,selection,,,,,,TRUE,,,,,,,TRUE,TRUE,"[('U6', 'U6'),('U7', 'U7'),('U8', 'U8'),('U9', 'U9'),('U10', 'U10'),('U11', 'U11'),('U12', 'U12'),('U13', 'U13'),('U14', 'U14'),('U15', 'U15'),('U16', 'U16'),('U17', 'U17'),('U18', 'U18'),('U19', 'U19')]"
+sdm.test,name,char,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.test,level,selection,,,,,,TRUE,,,,,,,TRUE,TRUE,"[('U6', 'U6'),('U7', 'U7'),('U8', 'U8'),('U9', 'U9'),('U10', 'U10'),('U11', 'U11'),('U12', 'U12'),('U13', 'U13'),('U14', 'U14'),('U15', 'U15'),('U16', 'U16'),('U17', 'U17'),('U18', 'U18'),('U19', 'U19')]"
+sdm.testingresult,players_id,Many2one,sdm.player,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.testingresult,testing_id,Many2one,sdm.testing,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.testingresult,discipline_id,Many2one,sdm.discipline,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.testingresult,value,float,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.playerseason,players_id,Many2one,sdm.player,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.playerseason,season_id,Many2one,sdm.season,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.playerseason,team_id,Many2one,sdm.team,,,,,TRUE,,,,,,,TRUE,TRUE,

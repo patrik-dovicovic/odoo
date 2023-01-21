@@ -1,0 +1,9 @@
+id,name,model_id/id,group_id/id,perm_read,perm_write,perm_create,perm_unlink
+access_sdm_player,access.sdm.player,model_sdm_player,,1,1,1,1
+access_sdm_playerseason,access.sdm.playerseason,model_sdm_playerseason,,1,1,1,1
+access_sdm_testingresult,access.sdm.testingresult,model_sdm_testingresult,,1,1,1,1
+access_sdm_discipline,access.sdm.discipline,model_sdm_discipline,,1,1,1,1
+access_sdm_season,access.sdm.season,model_sdm_season,,1,1,1,1
+access_sdm_team,access.sdm.team,model_sdm_team,,1,1,1,1
+access_sdm_test,access.sdm.test,model_sdm_test,,1,1,1,1
+access_sdm_testing,access.sdm.testing,model_sdm_testing,,1,1,1,1

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<record id="sdm_testing_tree" model="ir.ui.view">
+	<field name="name">sdm.testing.view.tree</field>
+	<field name="model">sdm.testing</field>
+	<field name="arch" type="xml">
+		<tree>
+			<field name="name"/>
+			<field name="date"/>
+			<field name="season_id"/>
+		</tree>
+	</field>
+</record>
+
+<record id="sdm_testing_form" model="ir.ui.view">
+	<field name="name">sdm.testing.view.form</field>
+	<field name="model">sdm.testing</field>
+	<field name="arch" type="xml">
+		<form>
+			<sheet>
+				<group>
+					<field name="name"/>
+					<field name="date"/>
+					<field name="season_id"/>
+				</group>
+			</sheet>
+		</form>
+	</field>
+</record>
+
+<record id="sdm_testing_action" model="ir.actions.act_window">
+	<field name="name">testovania</field>
+	<field name="type">ir.actions.act_window</field>
+	<field name="res_model">sdm.testing</field>
+	<field name="view_mode">tree,form</field>
+</record>
+</odoo>

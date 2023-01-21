@@ -1,0 +1,23 @@
+model,field,type,comodel_name,inverse_name,string,help,readonly,required,index,default,states,groups,copy,domain,tree,form,selection
+sdm.player,firstname,char,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.player,lastname,char,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.player,birth,date,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.configuration.season,name,char,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.configuration.season,date_start,date,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.configuration.season,date_end,date,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.configuration.testing,label,char,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.configuration.testing,date,date,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.configuration.testing,sdm.configuration.season_id,Many2one,sdm.configuration.season,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.configuration.discipline,name,char,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.configuration.discipline,aggregation,selection,,,,,,TRUE,,,,,,,TRUE,TRUE,"[('min','min'),('max','max')]"
+sdm.configuration.team,name,char,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.configuration.team,level,selection,,,,,,TRUE,,,,,,,TRUE,TRUE,"[('U6', 'U6'),('U7', 'U7'),('U8', 'U8'),('U9', 'U9'),('U10', 'U10'),('U11', 'U11'),('U12', 'U12'),('U13', 'U13'),('U14', 'U14'),('U15', 'U15'),('U16', 'U16'),('U17', 'U17'),('U18', 'U18'),('U19', 'U19')]"
+sdm.configuration.test,name,char,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.configuration.test,level,selection,,,,,,TRUE,,,,,,,TRUE,TRUE,"[('U6', 'U6'),('U7', 'U7'),('U8', 'U8'),('U9', 'U9'),('U10', 'U10'),('U11', 'U11'),('U12', 'U12'),('U13', 'U13'),('U14', 'U14'),('U15', 'U15'),('U16', 'U16'),('U17', 'U17'),('U18', 'U18'),('U19', 'U19')]"
+sdm.testingresult,sdm.players_id,Many2one,sdm.player,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.testingresult,sdm.configuration.testing_id,Many2one,sdm.configuration.testing,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.testingresult,sdm.configuration.discipline_id,Many2one,sdm.configuration.discipline,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.testingresult,value,float,,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.playerseason,sdm.players_id,Many2one,sdm.player,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.playerseason,sdm.configuration.season_id,Many2one,sdm.configuration.season,,,,,TRUE,,,,,,,TRUE,TRUE,
+sdm.playerseason,sdm.configuration.team_id,Many2one,sdm.configuration.team,,,,,TRUE,,,,,,,TRUE,TRUE,

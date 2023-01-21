@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<record id="sdm_player_tree" model="ir.ui.view">
+	<field name="name">sdm.player.view.tree</field>
+	<field name="model">sdm.player</field>
+	<field name="arch" type="xml">
+		<tree>
+			<field name="custom_id"/>
+			<field name="firstname"/>
+			<field name="lastname"/>
+			<field name="birth"/>
+		</tree>
+	</field>
+</record>
+
+<record id="sdm_player_form" model="ir.ui.view">
+	<field name="name">sdm.player.view.form</field>
+	<field name="model">sdm.player</field>
+	<field name="arch" type="xml">
+		<form>
+			<sheet>
+				<group>
+					<field name="custom_id"/>
+					<field name="firstname"/>
+					<field name="lastname"/>
+					<field name="birth"/>
+				</group>
+			</sheet>
+		</form>
+	</field>
+</record>
+
+<record id="sdm_player_action" model="ir.actions.act_window">
+	<field name="name">hráči</field>
+	<field name="type">ir.actions.act_window</field>
+	<field name="res_model">sdm.player</field>
+	<field name="view_mode">tree,form</field>
+</record>
+</odoo>
