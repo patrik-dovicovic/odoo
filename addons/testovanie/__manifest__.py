@@ -1,5 +1,5 @@
 {
-	"name": "Testovanie",
+	"name": "testovanie",
 	"version": "1.0",
 	"author": "Peter Dovicovic",
 	"summary": "Place your summary in here",
