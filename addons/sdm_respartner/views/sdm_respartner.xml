@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+
+
+<odoo>
+    <record id="sdm_respartner_form" model="ir.ui.view">
+         <field name="name">res.partner.form.inherit</field>
+         <field name="model">res.partner</field>
+         <field name="inherit_id" ref="base.view_partner_form"/>
+         <field name="arch" type="xml">
+			 <xpath expr="//page[@name='internal_notes']" position="after">
+				<page name="sdm_testovanie_extend" string="Testovanie">
+					<group>
+						<field name="edupage_id"/>
+					</group>
+					<group>
+						<field name="is_player" string="hrac"/>
+						<field name="is_trainer" string="trener"/>
+						<field name="is_parent" string="rodic"/>
+					</group>
+				</page>
+			 </xpath>
+         </field>
+    </record>
+	<record id="sdm_respartner_tree" model="ir.ui.view">
+		<field name="name">res.partner.tree.inherit</field>
+		<field name="model">res.partner</field>
+		<field name="inherit_id" ref="base.view_partner_tree"/>
+		<field name="arch" type="xml">
+			<xpath expr="//field[@name='display_name']" position="after">
+				<field name="is_player"/>
+				<field name="is_trainer"/>
+				<field name="is_parent"/>
+				<field name="edupage_id"/>
+			</xpath>
+		</field>
+   </record>
+
+   <record id="sdm_respartner_search" model="ir.ui.view">
+	<field name="name">res.partner.select.inherit</field>
+	<field name="model">res.partner</field>
+	<field name="inherit_id" ref="base.view_res_partner_filter"/>
+	<field name="arch" type="xml">
+		<xpath expr="//field[@name='name']" position="before">
+			<filter name="Hraci" string="Hraci" domain="[('is_player', '=', True)]"/>
+			<filter name="Rodicia" string="Rodicia" domain="[('is_parent', '=', True)]"/>
+			<filter name="Treneri" string="Treneri" domain="[('is_trainer', '=', True)]"/>
+			<separator/>
+		</xpath>
+	</field>
+</record>
+</odoo>

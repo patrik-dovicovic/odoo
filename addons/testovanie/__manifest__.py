@@ -1,7 +1,7 @@
 {
-	"name": "testovanie",
-	"version": "1.0",
-	"author": "Peter Dovicovic",
+	"name": "Testovanie",
+	"version": "16.0",
+	"author": "Pato Dovicovic",
 	"summary": "Place your summary in here",
 	"description": "Place your description in here. Feel free to contact me +6287731588137",
 	"data": [
@@ -12,10 +12,13 @@
 		"views/sdm_team.xml",
 		"views/sdm_test.xml",
 		"views/sdm_testingresult.xml",
-		"views/sdm_playerseason.xml",
+		"views/sdm_statistic.xml",
 		"views/menu.xml",
-		"security/ir.model.access.csv"
+		"security/security.xml",
+		"security/ir.model.access.csv",
 	],
+	"depends": [ "sdm_respartner","mail","contacts"],
+	"external_dependencies": {"python" : ["numpy"]},
 	"installable": True,
 	"application": True,
 	"license": "AGPL-3",

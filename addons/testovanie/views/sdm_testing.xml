@@ -7,7 +7,8 @@
 		<tree>
 			<field name="name"/>
 			<field name="date"/>
-			<field name="season_id"/>
+			<field name="season_id" options="{'no_create': True, 'no_open': True}"/>
+			<field name="current_testing"/>
 		</tree>
 	</field>
 </record>
@@ -21,15 +22,21 @@
 				<group>
 					<field name="name"/>
 					<field name="date"/>
-					<field name="season_id"/>
+					<field name="season_id" options="{'no_create': True, 'no_open': True}"/>
+					<field name="current_testing"/>
 				</group>
 			</sheet>
+			<div class="oe_chatter">
+				<field name="message_follower_ids" widget="mail_followers"/>
+				<field name="activity_ids" widget="mail_activity"/>
+				<field name="message_ids" widget="mail_thread"/>
+			</div>
 		</form>
 	</field>
 </record>
 
 <record id="sdm_testing_action" model="ir.actions.act_window">
-	<field name="name">testovania</field>
+	<field name="name">Testovania</field>
 	<field name="type">ir.actions.act_window</field>
 	<field name="res_model">sdm.testing</field>
 	<field name="view_mode">tree,form</field>

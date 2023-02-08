@@ -22,12 +22,17 @@
 					<field name="aggregation"/>
 				</group>
 			</sheet>
+			<div class="oe_chatter">
+				<field name="message_follower_ids" widget="mail_followers"/>
+				<field name="activity_ids" widget="mail_activity"/>
+				<field name="message_ids" widget="mail_thread"/>
+			</div>
 		</form>
 	</field>
 </record>
 
 <record id="sdm_discipline_action" model="ir.actions.act_window">
-	<field name="name">disciplíny</field>
+	<field name="name">Disciplíny</field>
 	<field name="type">ir.actions.act_window</field>
 	<field name="res_model">sdm.discipline</field>
 	<field name="view_mode">tree,form</field>

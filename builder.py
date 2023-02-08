@@ -22,11 +22,7 @@ class ModuleBuilder:
         self.module_name = module_name
         self.path_to_csv = path_to_csv
         self.path_to_save = path_to_save + "/"
-        self.import_model = [
-            "from odoo import fields",
-            "from odoo import models",
-            "from odoo import api",
-        ]
+        self.import_model = "from odoo import fields, models, api"
         # Forget the value based on the key from CSV
         # For generate_field function
         self.disabled_generate_field = [
@@ -267,7 +263,7 @@ class ModuleBuilder:
 # module_name = raw_input("Insert Module Name : ")
 # path_to_csv = raw_input("Insert Path to CSV : ")
 #path_to_save = raw_input("Insert Path to Save : ")
-module_name = "testovanie"
+module_name = "sdm_res_par"
 path_to_csv = "sdm.csv"
 path_to_save = "model"
 ModuleBuilder(module_name, path_to_csv, path_to_save)

@@ -1,39 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-<record id="sdm_testingresult_tree" model="ir.ui.view">
-	<field name="name">sdm.testingresult.view.tree</field>
-	<field name="model">sdm.testingresult</field>
-	<field name="arch" type="xml">
-		<tree>
-			<field name="players_id"/>
-			<field name="testing_id"/>
-			<field name="discipline_id"/>
-			<field name="value"/>
-		</tree>
-	</field>
-</record>
+	<record id="sdm_testingresult_tree" model="ir.ui.view">
+		<field name="name">sdm.testingresult.view.tree</field>
+		<field name="model">sdm.testingresult</field>
+		<field name="arch" type="xml">
+			<tree>
+			<!-- <tree editable="top"> -->
+				<field name="player_id" options="{'no_create': True, 'no_open': True}"/>
+				<field name="testing_id" options="{'no_create': True, 'no_open': True}"/>
+				<field name="discipline_id" options="{'no_create': True, 'no_open': True}"/>
+				<field name="season_id" optional="hide" options="{'no_create': True, 'no_open': True}"/>
+				<field name="age" optional="show" options="{'no_create': True, 'no_open': True}"/>
+				<field name="team_id" optional="show" options="{'no_create': True, 'no_open': True}"/>
+				<field name="team_level"  optional="hide" options="{'no_create': True, 'no_open': True}"/>
+				<field name="correct_value_string" optional="hide" options="{'no_create': True, 'no_open': True}"/>
+				<field name="value" />
+			</tree>
+		</field>
+	</record>
 
-<record id="sdm_testingresult_form" model="ir.ui.view">
-	<field name="name">sdm.testingresult.view.form</field>
-	<field name="model">sdm.testingresult</field>
-	<field name="arch" type="xml">
-		<form>
-			<sheet>
-				<group>
-					<field name="players_id"/>
-					<field name="testing_id"/>
-					<field name="discipline_id"/>
-					<field name="value"/>
+	<record id="sdm_testingresult_form" model="ir.ui.view">
+		<field name="name">sdm.testingresult.view.form</field>
+		<field name="model">sdm.testingresult</field>
+		<field name="arch" type="xml">
+			<form>
+				<sheet>
+					<group>
+						<group>
+						<field name="player_id" options="{'no_create': True, 'no_open': True}"/>
+						<field name="testing_id" options="{'no_create': True, 'no_open': True}"/>
+						<field name="discipline_id" widget="many2one" domain="[('test_ids.level','=',team_level)]" options="{'always_reload': True,'no_create': True, 'no_open': True}"/>
+						<field name="value" />
+					</group>
+					<group>
+						<field name="team_id" options="{'no_create': True, 'no_open': True}"/>
+						<field name="age" options="{'no_create': True, 'no_open': True}"/>
+						<field name="team_level" options="{'no_create': True, 'no_open': True}" invisible="1" optional="show"/>
+						<field name="season_id" options="{'no_create': True, 'no_open': True}" optional="hide"/>
+						<field name="correct_value_string" optional="hide"/>
+					</group>
 				</group>
-			</sheet>
-		</form>
-	</field>
-</record>
+				</sheet>
+				<div class="oe_chatter">
+					<field name="message_follower_ids" widget="mail_followers"/>
+					<field name="activity_ids" widget="mail_activity"/>
+					<field name="message_ids" widget="mail_thread"/>
+				</div>
+			</form>
+		</field>
+	</record>
 
-<record id="sdm_testingresult_action" model="ir.actions.act_window">
-	<field name="name">výsledky merania</field>
-	<field name="type">ir.actions.act_window</field>
-	<field name="res_model">sdm.testingresult</field>
-	<field name="view_mode">tree,form</field>
-</record>
+	<record id="sdm_testingresult_search" model="ir.ui.view">
+		<field name="name">sdm.testingresult.view.search</field>
+		<field name="model">sdm.testingresult</field>
+		<field name="arch" type="xml">
+			<search>
+				<separator />
+				<field name="player_id" />
+				<filter name="group_by_season_id" context="{'group_by':'season_id'}" />
+				<filter name="group_by_testing_id" context="{'group_by':'testing_id'}" />
+				<filter name="group_by_team_level" context="{'group_by':'team_level'}" />
+				<filter name="group_by_team_id" context="{'group_by':'team_id'}" />
+				<filter name="group_by_discipline_id" context="{'group_by':'discipline_id'}" />
+				<filter name="group_by_correct_value_string" context="{'group_by':'correct_value_string'}" />
+				<filter name="group_by_player_id" context="{'group_by':'player_id'}" />
+				<filter name="incorrect_value" string="Hodnota je nespravna" domain="[('correct_value', '=', False)]" />
+				<filter name="correct_value" string="Hodnota je spravna" domain="[('correct_value', '=', True)]" />
+				<filter name="age_undefined" string="vek nie je vypocitany" domain="[('age', '=', 'undefined')]" />
+			</search>
+		</field>
+	</record>
+
+
+	<record id="sdm_testingresult_action" model="ir.actions.act_window">
+		<field name="name">Výsledky merania</field>
+		<field name="type">ir.actions.act_window</field>
+		<field name="res_model">sdm.testingresult</field>
+		<field name="view_mode">tree,form,search</field>
+	</record>
 </odoo>
+
+<!-- <field name="team_id" widget="many2one" options='{"always_reload": True}'>
+	<tree string="Tim">
+		<field name="level" related="team_id.level" string="Uroven" />
+	</tree>
+</field> -->

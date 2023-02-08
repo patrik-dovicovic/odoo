@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<record id="sdm_statistic_tree" model="ir.ui.view">
+	<field name="name">sdm.statistic.view.tree</field>
+	<field name="model">sdm.statistic</field>
+	<field name="arch" type="xml">
+		<tree create="false">
+			<header>
+				<button name="button_delete_create" string="Delete and Create" type="object" class="oe_button oe_new_button oe_highlight"/>
+			</header>
+			<field name="type"/>
+			<field name="discipline_id" options="{'no_create': True, 'no_open': True}"/>
+			<field name="age"/>
+			<field name="testing_id" options="{'no_create': True, 'no_open': True}"/>
+			<field name="minimum" optional="show"/>
+			<field name="lower_quartile" optional="show"/>
+			<field name="median" optional="show"/>
+			<field name="upper_quartile" optional="show"/>
+			<field name="maximum" optional="show"/>
+			<field name="count" optional="show"/>
+			<field name="invalid_values" optional="show"/>
+			<field name="all_values" optional="hide"/>
+		</tree>
+	</field>
+</record>
+
+<record id="sdm_statistic_form" model="ir.ui.view">
+	<field name="name">sdm.statistic.view.form</field>
+	<field name="model">sdm.statistic</field>
+	<field name="arch" type="xml">
+		<form create="false">
+			<sheet>
+				<group>
+					<field name="type"/>
+                    <field name="discipline_id" options="{'no_create': True, 'no_open': True}"/>
+                    <field name="age"/>
+					<field name="testing_id" options="{'no_create': True, 'no_open': True}"/>
+                    <field name="minimum"/>
+                    <field name="lower_quartile"/>
+                    <field name="median"/>
+                    <field name="upper_quartile"/>
+                    <field name="maximum"/>
+					<field name="count"/>
+					<field name="invalid_values"/>
+					<field name="all_values"/>
+				</group>
+			</sheet>
+			<div class="oe_chatter">
+				<field name="message_follower_ids" widget="mail_followers"/>
+				<field name="activity_ids" widget="mail_activity"/>
+				<field name="message_ids" widget="mail_thread"/>
+			</div>
+		</form>
+	</field>
+</record>
+
+<record id="sdm_statistic_search" model="ir.ui.view">
+	<field name="name">sdm.statistic.view.search</field>
+	<field name="model">sdm.statistic</field>
+	<field name="arch" type="xml">
+		<search>
+			<separator />
+			<field name="testing_id" />
+			<field name="discipline_id" />
+			<field name="age" />
+			<filter name="group_by_type" context="{'group_by':'type'}" />
+			<filter name="group_by_testing_id" context="{'group_by':'testing_id'}" />
+			<filter name="group_by_discipline_id" context="{'group_by':'discipline_id'}" />
+			<filter name="group_by_age" context="{'group_by':'age'}" />
+			<filter name="filter_this_testing" string="this testing" domain="[('type', '=', 'this_testing')]" />
+			<filter name="filter_all_time" string="all time" domain="[('type', '=', 'all_time')]" />
+		</search>
+	</field>
+</record>
+
+<record id="sdm_statistic_action" model="ir.actions.act_window">
+	<field name="name">Štatistiky</field>
+	<field name="type">ir.actions.act_window</field>
+	<field name="res_model">sdm.statistic</field>
+	<field name="view_mode">tree,form,search</field>
+</record>
+</odoo>

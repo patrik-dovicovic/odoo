@@ -1,0 +1,25 @@
+<data>
+    <record model="ir.module.category" id="sdm_testing_group">
+        <field name="name">Testovanie</field>
+        <field name="description">...</field>
+    </record>
+
+    <record id="group_sdm_testing_readonly" model="res.groups">
+        <field name="name">Readonly</field>
+        <field name="category_id" ref="sdm_testing_group"/>
+        <field name="implied_ids" eval="[(4, ref('base.group_user'))]"/>
+    </record>
+
+    <record id="group_sdm_testing_restricted" model="res.groups">
+        <field name="name">Restricted access</field>
+        <field name="category_id" ref="sdm_testing_group"/>
+        <field name="implied_ids" eval="[(4, ref('group_sdm_testing_readonly'))]"/>
+    </record>
+
+    <record id="group_sdm_testing_admin" model="res.groups">
+        <field name="name">Administrator</field>
+        <field name="category_id" ref="sdm_testing_group"/>
+        <field name="implied_ids" eval="[(4, ref('group_sdm_testing_readonly')), (4, ref('group_sdm_testing_restricted'))]"/>
+        <field name="users" eval="[(4, ref('base.user_root')), (4, ref('base.user_admin'))]"/>
+    </record>
+</data>

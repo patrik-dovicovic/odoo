@@ -1,0 +1,621 @@
+studentid,newId,firstname,lastname,birth,email,classid,class_name,class_teacher1_id,class_teacher1_firstname,class_teacher1_lastname,class_teacher2_id,class_teacher2_firstname,class_teacher2_lastname,parents_ids,parent1_id,parent1_firstname,parent1_lastname,parent2_id,parent2_firstname,parent2_lastname,school
+-953,953,Dávid,Baleja,11.11.2013,renatabaleja@gmail.com,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,"['-62', '-560']",-62,Gabriel,Baleja,-560,Renáta,Balejová,Ostretková
+-961,961,Mário,Bitto,17.1. 2013,,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,['-447'],-447,Juraj,Baroňák,,,,
+-878,878,Ema,Bodoríková,4.1.2013,,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,['-245'],-245,Martin,Bodorík,,,,ZŠ Vrútocká 58
+-1081,1081,Thomas,Briffod,17.8.2013,,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,"['-705', '-709']",-705,Katarína,Briffod,-709,Louis-Joseph,Briffod,
+-1019,1019,Teo,Čierny,19.12.2013,,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,"['-614', '-700']",-614,Michal,Čierny,-700,Lucia,Glezlová,Bratislava
+-879,879,Sebastián,Droščák,6.6.2013,,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,['-325'],-325,Rastislav,Droščák,,,,Drieňová Bratislava
+-613,613,Timotej,Firický,9.7.2013,,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,"['-326', '-587']",-326,Michaela,Firická,-587,Matej,Firický,
+-614,614,Šimon,Hradílek,9.2.2013,,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,"['-327', '-702']",-327,Zuzana,Hradilková,-702,Marek,Hradílek ,
+-880,880,Peter,Hrbatý,29.5.2013,,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,"['-328', '-495']",-328,Juraj,Hrbatý,-495,Zuzana,Hrbatá,ZŠ Mierová
+-881,881,Matúš,Hric,22.11.2013,,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,['-329'],-329,Rastislav,Hric,,,,"Ostredkova 14, BA"
+-882,882,Matej,Ingeli,8.9.2013,,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,['-330'],-330,Dušan,Ingeli,,,,"ZŠ SNP Ostredková 14, Bratislava"
+-883,883,David,Ivančo,31.5.2013,,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,"['-331', '-512']",-331,Emil,Ivančo,-512,Miroslava,Ivančová,ZS Ostredkova
+-884,884,Peter,Kováč,14.1.2013,,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,"['-332', '-541']",-332,Peter,Kováč,-541,Annamarie,Kováčová,"ZŠ Rajčianska 3, 821 7 BA"
+-615,615,Róbert,Lauro,19.11.2013,,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,['-333'],-333,Martina,Brezovská,,,,
+-885,885,Marko,Mariánčik,13.9.2013,,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,['-334'],-334,Igor,Mariánčík,,,,"ZŠ, Ostredková 14, Bratislava"
+-617,617,Tomáš,Odor,14.3.2013,,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,"['-336', '-539']",-336,Jarmila,Odorová,-539,Stanislav,Odor,
+-886,886,Adam,Ometák,17.7.2013,ometakovaz@gmail.com,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,"['-337', '-545']",-337,Jozef,Ometák,-545,Zuzana,Ometáková,ZŠ Medzilaborecká
+-887,887,Róbert,Papánek,25.6.2013,,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,['-338'],-338,Ľuboslav,Papánek,,,,Obežná
+-616,616,Matúš,Pokorný,16.8.2013,,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,['-335'],-335,Anna,Pokorná,,,,
+-888,888,Adam,Pomothy,14.10.2013,,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,"['-317', '-514']",-317,Tomas,Pomothy,-514,Mária,Pomothy,ZS Ostredkova
+-618,618,Šimon,Rim,2.4.2013,,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,['-13'],-13,Iveta,Rimová,,,,
+-952,952,Vadym,Rubanyk,24.11.2013,,-27,A10,-6,Ladislav,Dubovan,-7,Ivan,Zrubec,['-439'],-439,Yurii,Rubanyk ,,,,Ukrajinec 
+-865,865,Mario,Al Zafari,31.5.2012,,-29,A11,-8,Patrik,Kratochvíl,-9,Filip,Drgoňa,['-308'],-308,Erika,Al Zafari,,,,ZŠ Mierova 46
+-866,866,Peter,Bajtoš,20.3.2012,,-29,A11,-8,Patrik,Kratochvíl,-9,Filip,Drgoňa,"['-309', '-529']",-309,Peter,Bajtoš,-529,Miriam,Bajtošová ,ZŠ Ružová dolina
+-605,605,Filip,Brhlovič,6.8.2012,,-29,A11,-8,Patrik,Kratochvíl,-9,Filip,Drgoňa,['-310'],-310,Ivana,Brhlovičová,,,,
+-606,606,Maxim,Dorušiak,9.7.2012,,-29,A11,-8,Patrik,Kratochvíl,-9,Filip,Drgoňa,['-311'],-311,Beáta,Dorušiaková,,,,
+-607,607,Dominik,Jašica,1.5.2012,,-29,A11,-8,Patrik,Kratochvíl,-9,Filip,Drgoňa,"['-312', '-571']",-312,Miroslav,Jašica,-571,Alexandra,Jašicová,
+-867,867,Leonard,Katreniak,17.7.2012,,-29,A11,-8,Patrik,Kratochvíl,-9,Filip,Drgoňa,['-313'],-313,Miroslav,Katreniak,,,,"ZŠ, Nevädzova 2, 821 1 Bratislava"
+-868,868,Teo,Kozák,11.12.2012,,-29,A11,-8,Patrik,Kratochvíl,-9,Filip,Drgoňa,['-206'],-206,Jozef,Kozák,,,,ZS Ostredkova
+-954,954,Lucia,Leporisová,24.11.2011,,-29,A11,-8,Patrik,Kratochvíl,-9,Filip,Drgoňa,['-416'],-416,Juraj,Leporis,,,,
+-870,870,Lukáš,Macko,19.3.2012,,-29,A11,-8,Patrik,Kratochvíl,-9,Filip,Drgoňa,"['-315', '-606']",-315,Martin,Macko,-606,Adriana,Macková ,ZŠ Ivanovce
+-608,608,Lukáš,Majba,7.2.2012,,-29,A11,-8,Patrik,Kratochvíl,-9,Filip,Drgoňa,['-316'],-316,Matej,Majba,,,,
+-871,871,Filip,Pomothy,12.2.2012,,-29,A11,-8,Patrik,Kratochvíl,-9,Filip,Drgoňa,"['-317', '-514']",-317,Tomas,Pomothy,-514,Mária,Pomothy,ZS Ostredkova
+-609,609,Michal,Porubský,15.5.2012,,-29,A11,-8,Patrik,Kratochvíl,-9,Filip,Drgoňa,['-318'],-318,Zuzana,Porubská,,,,
+-872,872,Jakub,Považan,4.4.2012,,-29,A11,-8,Patrik,Kratochvíl,-9,Filip,Drgoňa,"['-271', '-476']",-271,Ján,Považan,-476,Monika,Považanová,
+-873,873,Pavol,Smolen,18.12.2012,,-29,A11,-8,Patrik,Kratochvíl,-9,Filip,Drgoňa,['-111'],-111,Pavol,Smolen,,,,Zs sv. Vincenta
+-874,874,Marko,Šuvert,5.1.2012,,-29,A11,-8,Patrik,Kratochvíl,-9,Filip,Drgoňa,['-319'],-319,Peter,Šuvert,,,,SZŠ Česká
+-610,610,Leo,Teplička,27.7.2012,,-29,A11,-8,Patrik,Kratochvíl,-9,Filip,Drgoňa,"['-320', '-471']",-320,Marián,Teplička,-471,Soňa,Tepličková,
+-611,611,Pavol,Tomasch,28.8.2012,,-29,A11,-8,Patrik,Kratochvíl,-9,Filip,Drgoňa,['-321'],-321,Katarína,Tomaschová,,,,
+-875,875,Lukáš,Vasil,30.4.2012,,-29,A11,-8,Patrik,Kratochvíl,-9,Filip,Drgoňa,"['-322', '-505']",-322,Lukáš,Vasil,-505,Jana,Vasilová,"Mierová 46, Bratislava"
+-876,876,Michal,Zemánek,20.4.2012,,-29,A11,-8,Patrik,Kratochvíl,-9,Filip,Drgoňa,"['-323', '-486']",-323,Juraj,Zemanek,-486,Jana,Zemanková,ZŠ Borodáčova
+-877,877,Branislav,Zrubec,8.10.2012,,-29,A11,-8,Patrik,Kratochvíl,-9,Filip,Drgoňa,['-324'],-324,Ivan,Zrubec,,,,ZS Sv. Ursule
+-851,851,Rudolf,Árvai,22.3.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,['-244'],-244,Jozef,Árvai,,,,Základná škola a Gymnázium s vyučovacím jazykom maďarským
+-852,852,Tobias,Berger,12.7.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,['-293'],-293,Milan,Berger,,,,Narnia
+-599,599,Jakub,Bóna,23.2.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,['-294'],-294,Monika,Bónová,,,,
+-853,853,Šimon,Černanský,27.8.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,['-295'],-295,Maroš,Černanský,,,,ZŠ Železničná
+-854,854,Martin,Černý,3.8.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,"['-296', '-557']",-296,Milan,Černý,-557,Martina,Černá,ZŠ SNP Ostredková
+-855,855,Michal,Dáni,14.12.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,['-297'],-297,Michal,Dáni,,,,Ostredkova
+-600,600,Rado,Irša,12.8.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,['-298'],-298,Andrej,Irša,,,,
+-525,525,Juraj,Jonis,19.3.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,['-136'],-136,Sandra,Vychlopenová,,,,
+-601,601,Adam,Kaščák,4.3.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,"['-299', '-679']",-299,Inka,Kaščáková,-679,Milan,Kaščák,
+-602,602,Michal,Kaščák,4.3.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,"['-299', '-679']",-299,Inka,Kaščáková,-679,Milan,Kaščák,
+-603,603,Patrik,Kollár,14.10.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,['-300'],-300,Miroslava,Kollárová,,,,
+-1073,1073,Lukáš ,Králik,3.11.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,['-704'],-704,Marian ,Kralik ,,,,
+-856,856,Lukáš,Krištof,8.1.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,"['-105', '-493']",-105,Marek,Krištof,-493,Jana,Krištofová,ZŠ Ostredková
+-604,604,Filip,Lukáčik,15.2.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,"['-301', '-558']",-301,Renata,Lukáčiková,-558,Martin,Lukáčik,
+-857,857,Andreas,Mares,15.2.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,['-302'],-302,Andres,Mares,,,,Ostredkova
+-1013,1013,Dominik,Masaryk,26.6.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,"['-600', '-601']",-600,Beáta,Masaryková,-601,Anton,Masaryk,
+-858,858,Cristiano,Re,4.3.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,['-303'],-303,Silvano,Re,,,,Základná škola Matky Alexie
+-859,859,Martin,Smolen,27.6.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,['-111'],-111,Pavol,Smolen,,,,Zs sv. Vincenta
+-860,860,Marko,Střitecký,5.11.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,['-304'],-304,František,Stritecky,,,,"Vrútocka 58,Bratislava"
+-861,861,Adam,Vaňek,21.10.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,['-305'],-305,Radoslav,Vanek,,,,ZŠ Ružová dolina
+-862,862,Tobias,Volár,13.5.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,['-306'],-306,Ján,Volár,,,,"ZŠ Mierová 46, BA"
+-864,864,Filip,Zuggó,30.7.2011,,-31,A12,-10,Dominik,Polakovič,-11,Mojmír,Bujna,['-219'],-219,Martin,Zúggó,,,,Spojená škola sv. Vincenta de Paul
+-948,948,Matúš ,Baleja,15.11.2010,renatabaleja@gmail.com,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,"['-62', '-560']",-62,Gabriel,Baleja,-560,Renáta,Balejová,Ostretková 
+-836,836,Matej,Belvončík,1.10.2010,,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,['-276'],-276,Miloš,Belvončík,,,,ZŠ Nevädzová
+-837,837,Jozef,Daniš,15.8.2010,,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,['-277'],-277,Jozef,Daniš,,,,"ZŠ Cádrova, BA"
+-838,838,Andriy,Dudko,23.6.2010,,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,['-278'],-278,Yaroslav,Dudko,,,,Gymnázium Ladislava Novomeského
+-839,839,Andrej,Ďurovič,11.3.2010,,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,"['-279', '-508']",-279,Rastislav,Ďurovič,-508,Ľubica,Kissová,ZS Vrutocka
+-840,840,Max,Hagendorf,27.12.2010,,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,['-280'],-280,Michal,Hagendorf,,,,ZŠ Malinovo
+-841,841,Jakub,Holdoš,19.3.2010,,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,['-281'],-281,Juraj,Holdoš,,,,"ZŠ Kalinčiakova 12, BA"
+-842,842,Matúš,Kováčik,14.2.2010,,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,"['-282', '-625']",-282,Marián,Kováčik,-625,Lucia ,Kováčiková,ZŠ Vazovova 4
+-843,843,Marcus Michal,Luknár,31.1.2010,,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,"['-283', '-604']",-283,Michal,Luknár,-604,Eva,Pavelková ,ZŠ Za kasárňou
+-844,844,Šimon,Maník,10.3.2010,,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,"['-284', '-588']",-284,Marek,Maník,-588,Mária,Maníková,Vrutocka
+-657,657,William,Nosjean,20.8.2010,,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,['-285'],-285,Katarína,Nosjean,,,,ZŠ Vrútocká
+-832,832,Andrej,Považan,2.6.2010,,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,"['-271', '-476']",-271,Ján,Považan,-476,Monika,Považanová,ZS Podzáhradná
+-846,846,Filip,Skysľak,29.1.2010,,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,"['-288', '-437']",-288,Marek,Skysľak,-437,Lucia,Skysľaková,Spojena skola Novohradska GJH
+-598,598,Jakub,Strmiska,2.11.2010,,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,"['-289', '-621']",-289,Henrieta,Strmisková,-621,Martin,Strmiska,
+-1001,1001,Theodor,Šebesta,26.5.2010,,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,['-556'],-556,Zuzana,Šebestová ,,,,
+-847,847,Jakub,Šmilnák,31.5.2010,,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,['-290'],-290,Pavol,Smilnak,,,,GLN Tomasikova
+-949,949,Adam,Štajgár,29.7.2010,adam.stajgar@gmail.com,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,"['-435', '-618']",-435,Mária ,Štajgárová,-618,Róbert,Štajgár,Bachová 
+-848,848,Maxim,Uhlíř,23.3.2010,,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,['-95'],-95,Radoslav,Uhlir,,,,ZŠ Medzilaborecká
+-1067,1067,Leonard ,Urdzik,18.10.2010,,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,['-675'],-675,Elena,Urdziková,,,,
+-849,849,Kevin,Weber,9.3.2010,,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,"['-291', '-645']",-291,Marian,Weber,-645,Silvia,Weberová,ZŠ Slovenský Grob
+-850,850,Filip,Zelenay,3.3.2010,,-33,A13,-13,Samuel,Karas,-14,Jaroslav,Belejčák,"['-292', '-620']",-292,Juraj,Zelenay,-620,Zuzana,Zelenayová,GLN
+-825,825,Denis,Artim,2.4.2009,,-35,A14,-15,Juraj,Kostický,-16,Peter,Habara,['-261'],-261,Milos,Artim,,,,ZS Kalinciakova
+-826,826,Lukáš,Biznár,8.3.2010,,-35,A14,-15,Juraj,Kostický,-16,Peter,Habara,"['-262', '-433']",-262,Marcel,Biznár,-433,Ľubica,Biznárová,Gymnázium J. Papánka
+-592,592,Filip,Blažek,17.6.2009,,-35,A14,-15,Juraj,Kostický,-16,Peter,Habara,['-263'],-263,Michaela,Blažeková,,,,
+-827,827,Šimon,Brach,27.10.2009,,-35,A14,-15,Juraj,Kostický,-16,Peter,Habara,['-264'],-264,Milan,Brach,,,,ZŠ Drieňová
+-590,590,Slavo,Bujna,10.8.2009,,-35,A14,-15,Juraj,Kostický,-16,Peter,Habara,['-256'],-256,Peter,Bujna,,,,
+-946,946,Samuele,Casamassima,21.10.2009,,-35,A14,-15,Juraj,Kostický,-16,Peter,Habara,['-432'],-432,Marco,Casamassima,,,,Most pri Bratislave
+-947,947,Alex,Čarský,9.3.2010,,-35,A14,-15,Juraj,Kostický,-16,Peter,Habara,['-434'],-434,Branislav ,Čarský ,,,,Gamnázium sv. Uršul
+-976,976,Jakub ,Ficko,09.09.2009,,-35,A14,-15,Juraj,Kostický,-16,Peter,Habara,"['-489', '-569']",-489,Matúš,Ficko,-569,Adriana,Ficková,
+-828,828,Marcel,Goliáš,21.11.2009,,-35,A14,-15,Juraj,Kostický,-16,Peter,Habara,"['-265', '-522']",-265,Peter,Goliáš,-522,Katarína,Goliášová,"SŠ Sv. Vincenta de Paul, Bachova 4, BA"
+-593,593,David,Holuška,12.7.2009,,-35,A14,-15,Juraj,Kostický,-16,Peter,Habara,['-266'],-266,Zuzana,Lubelcova,,,,
+-829,829,Andrej,Kovács,1.10.2009,,-35,A14,-15,Juraj,Kostický,-16,Peter,Habara,['-267'],-267,Kristián,Kovács,,,,ZŠ Matky Alexie
+-594,594,Juraj,Kudroč,10.2.2009,,-35,A14,-15,Juraj,Kostický,-16,Peter,Habara,['-268'],-268,Monika,Kudročová,,,,
+-831,831,Richard,Pastýr,1.1.2009,,-35,A14,-15,Juraj,Kostický,-16,Peter,Habara,['-270'],-270,Roland,Pastýr,,,,"Gymnázium, Metodova, Bratislava"
+-978,978,Matej,Rychnavský,9.10.2009,,-35,A14,-15,Juraj,Kostický,-16,Peter,Habara,['-494'],-494,Marek,Rychnavský,,,,
+-977,977,Lukáš ,Szabó,9.1.2009,,-35,A14,-15,Juraj,Kostický,-16,Peter,Habara,"['-492', '-561']",-492,Kristina,Szabóova,-561,Ladislav,Szabó,
+-595,595,Dávid,Szikora,3.9.2009,,-35,A14,-15,Juraj,Kostický,-16,Peter,Habara,['-273'],-273,Marcela,Szikorová,,,,
+-596,596,Šimon,Tomčišák,3.5.2009,,-35,A14,-15,Juraj,Kostický,-16,Peter,Habara,"['-274', '-478']",-274,Janka,Tomčišáková,-478,Ondrej,Tomčišák,
+-834,834,Tamara,Turlíková,11.4.2009,,-35,A14,-15,Juraj,Kostický,-16,Peter,Habara,['-234'],-234,Peter,Turlík,,,,Zs matky Alexie
+-835,835,Gael,Zappe,12.11.2009,,-35,A14,-15,Juraj,Kostický,-16,Peter,Habara,['-275'],-275,Lucas,Zappe,,,,ZS Drienova
+-969,969,Martin,Žarnay,19.1. 2009,,-35,A14,-15,Juraj,Kostický,-16,Peter,Habara,"['-490', '-491']",-490,Pavol,Žarnay,-491,Jana,Žarnayová,
+-816,816,Ladislav,Árvai,6.5.2008,,-37,A15,-17,Kevin,Absolon,-85,Bálint,Križan,['-244'],-244,Jozef,Árvai,,,,Základná škola a Gymnázium s vyučovacím jazykom maďarským
+-817,817,Ondrej,Bodorík,31.3.2009,,-37,A15,-17,Kevin,Absolon,-85,Bálint,Križan,['-245'],-245,Martin,Bodorík,,,,ZŠ Vrútocká 58
+-583,583,Jakub,Copák,4.8.2008,,-37,A15,-17,Kevin,Absolon,-85,Bálint,Križan,['-246'],-246,Elena,Copáková,,,,
+-584,584,Steven,Eze,28.7.2008,,-37,A15,-17,Kevin,Absolon,-85,Bálint,Križan,['-247'],-247,Martina,Klimentová,,,,
+-818,818,Andrej,Gajdošík,10.9.2008,,-37,A15,-17,Kevin,Absolon,-85,Bálint,Križan,['-248'],-248,Norbert,Gajdošík,,,,"SŠ Sv. Vincenta de Paul, Bachova 4, BA"
+-819,819,Matúš,Garaj,24.4.2008,,-37,A15,-17,Kevin,Absolon,-85,Bálint,Križan,['-249'],-249,Miroslav,Garaj,,,,"SŠ Sv. Vincenta de Paul, Bachova 4, BA"
+-941,941,Juraj,Gretsch,26.6.2008,jaro.gretsch@gmail.com  ,-37,A15,-17,Kevin,Absolon,-85,Bálint,Križan,['-428'],-428,Jaro,Gretsch,,,,
+-942,942,Jakub ,Gretsch ,26.6.2008,,-37,A15,-17,Kevin,Absolon,-85,Bálint,Križan,['-428'],-428,Jaro,Gretsch,,,,
+-943,943,Lukáš ,Hrmo ,3.3.2009,jaroslavahrmova@gmail.com,-37,A15,-17,Kevin,Absolon,-85,Bálint,Križan,"['-429', '-346']",-429,Jaroslava,Hrmova,-346,Dušan,Hrmo,
+-586,586,Matúš,Makky,3.3.2008,,-37,A15,-17,Kevin,Absolon,-85,Bálint,Križan,['-251'],-251,Katarína,Makkyová,,,,
+-945,945,Francisc,Maniur,20.3.2008,,-37,A15,-17,Kevin,Absolon,-85,Bálint,Križan,"['-431', '-644']",-431,Francisc,Maniur,-644,Martina,Maniurová,ZŠ Dunajská Lužná
+-587,587,Jakub,Michalík,10.6.2008,,-37,A15,-17,Kevin,Absolon,-85,Bálint,Križan,['-252'],-252,Simona,Michalíková,,,,
+-588,588,Hana,Michalíková,10.6.2008,,-37,A15,-17,Kevin,Absolon,-85,Bálint,Križan,['-252'],-252,Simona,Michalíková,,,,
+-589,589,Jakub,Otruba,21.12.2008,,-37,A15,-17,Kevin,Absolon,-85,Bálint,Križan,['-253'],-253,Denisa,Otrubová,,,,
+-820,820,Rudolf,Pajdlhauser,4.9.2008,,-37,A15,-17,Kevin,Absolon,-85,Bálint,Križan,['-254'],-254,Daniel,Pajdlhauser,,,,Spojená škola de La Salle
+-821,821,Dominik,Pecsuk,26.1.2008,,-37,A15,-17,Kevin,Absolon,-85,Bálint,Križan,['-255'],-255,Štefan,Pecsuk,,,,Gymnazium Federica Garciu Lorcu
+-944,944,Andy Max,Ravasz,28.5.2008,,-37,A15,-17,Kevin,Absolon,-85,Bálint,Križan,['-430'],-430,Andrej ,Ravasz ,,,,Rajčianska 3
+-822,822,Peter,Stadničar,9.1.2008,,-37,A15,-17,Kevin,Absolon,-85,Bálint,Križan,['-257'],-257,Peter,Stadničar,,,,ZŠ Vrútocká 58
+-824,824,Juraj,Voštinár,19.5.2009,,-37,A15,-17,Kevin,Absolon,-85,Bálint,Križan,['-259'],-259,Jozef,Voštinár,,,,ZŠ Drieňová
+-591,591,Marko,Začka,2.3.2008,marko.zacka@vdp.sk,-37,A15,-17,Kevin,Absolon,-85,Bálint,Križan,['-260'],-260,Jakub,Začka,,,,
+-619,619,Lukáš,BELOŠIC,1.6.2007,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,['-339'],-339,Silvia,Belošicová,,,,
+-889,889,Matej,BODORÍK,28.8.2006,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,['-245'],-245,Martin,Bodorík,,,,ZŠ Vrútocká
+-620,620,Samuel,BUZA,29.4.2007,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,['-341'],-341,Pavol,Buza,,,,
+-900,900,Ivan,Cabaj,27.7.2006,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,['-360'],-360,Juraj,Cabaj,,,,"Gymnázium, Grösslingová 18"
+-890,890,Myroslav,DIDUKH,12.3.2006,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,['-342'],-342,Karol,Maník ,,,,Ukrajinec
+-621,621,Jakub,DÚBRAVKA,31.5.2007,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,['-343'],-343,Jakub,Dúbravka,,,,
+-891,891,Matúš,GAJDOŠÍK,31.5.2006,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,['-248'],-248,Norbert,Gajdošík,,,,Bachova
+-892,892,Šimon,HINZELLER,15.4.2007,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,['-344'],-344,Gabriel,Hinzeller,,,,Gymnazium F.G.Lorcu
+-893,893,Hugo,HOLÍK,2.6.2006,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,"['-345', '-591']",-345,Lubo,Holík,-591,Soňa,Holíková,Gym Hubeneho
+-894,894,Michal,HRMO,10.11.2007,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,"['-346', '-429']",-346,Dušan,Hrmo,-429,Jaroslava,Hrmova,ZŠ Podzáhradná
+-622,622,Matej,KESZOCZE,12.8.2007,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,"['-424', '-568']",-424,Jozef,Keszöcze,-568,Alžbeta,Keszöczeová,
+-623,623,Oliver,KOVAČIČ,27.8.2006,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,['-348'],-348,Monika,Kovačičova,,,,
+-624,624,Marko,KRČ,17.2.2006,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,['-417'],-417,Ivana ,Krčová,,,,
+-625,625,Filip,KULACS,21.2.2006,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,"['-350', '-567']",-350,Silvia,Kulacsova,-567,Mikuláš,Kulacs,
+-901,901,Tobias,LANCZ,15.7.2006,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,['-361'],-361,Tobias,Lancz,,,,Gymnázium Z.Kodálya Galanta
+-630,630,Alex,LOBODÁŠ,11.10.2006,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,['-363'],-363,Andrea,Lobodášová,,,,
+-626,626,Martin,RIGO,7.5.2007,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,['-351'],-351,Natalia,Ištokova,,,,
+-895,895,Tomáš,SMOLEC,10.11.2006,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,['-353'],-353,Maros,Smolec,,,,ZŠ Drieňová
+-1109,1109,Michal,ŠAULIČ,21.02.2006,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,"['-740', '-741']",-740,Martin,Šaulič,-741,Dana,Šauličová,
+-899,899,Michal,ŠŤASTNÝ,8.3.2006,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,['-359'],-359,Michal,Šťastný,,,,1.sg Bajkalská 20
+-896,896,Adrián,TAKÁCS,2.2.2007,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,['-354'],-354,Adrián,Takács,,,,ZŠ Hubeného Ba -Rača
+-1007,1007,Róbert,TOMÁNEK,,,-43,A17,-19,Patrik,Bacho,-56,Ján ,Smatana,['-585'],-585,Róbert,Tománek,,,,
+-631,631,Lucas,Abel,27.5.2005,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,['-364'],-364,Adrika,Abelová,,,,
+-919,919,Patrik,Adame,25.2.2005,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,['-382'],-382,Danka,Ščepková,,,,stredna športova škola sklodovskej 1 Petržalka
+-903,903,Jean-Michel,Andok,4.6.2004,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,['-365'],-365,Robert,Andok,,,,Gymnazium Jura Hronca
+-963,963,Adam ,Barbirík,16.11.2005,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,['-451'],-451,Branislav,Barbirík,,,,
+-964,964,Marek ,Bôžik,,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,['-455'],-455,Martina,Červenková ,,,,
+-904,904,Radovan,Čajági,4.7.2005,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,['-366'],-366,Radovan,Čajági,,,,OA Dudová
+-905,905,Damian,Detvan,9.2.2005,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,['-367'],-367,Martin,Detvan,,,,"Dualna akademia, súkromná SOŠ,"
+-906,906,Ivan,Doroshenko,23.3.2004,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,['-368'],-368,Ivan,Doroshenko,,,,Gymnázium A. Einsteina
+-920,920,Lukáš,Eliáš,1.3.2005,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,['-383'],-383,Ladislav,Eliáš,,,,"Soš Polygrafická, Račianska 190, BA"
+-907,907,Peter,Fratrič,24.11.2005,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,['-369'],-369,Juraj,Frátrič,,,,
+-908,908,Michal,Hargaš,30.7.2004,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,['-370'],-370,Juraj,Hargaš,,,,SPŠ stavebná
+-632,632,Samuel,Hrivnák,3.10.2004,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,['-371'],-371,Silvia,Vlčanova,,,,
+-935,935,Christian,Chladek,23.2.2005,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,['-450'],-450,Bibiana,Fabiánová ,,,,
+-909,909,Adam,Keszöcze,21.8.2004,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,"['-424', '-568']",-424,Jozef,Keszöcze,-568,Alžbeta,Keszöczeová,Spojená škola De LA Salle
+-910,910,Matej,Klepáč,20.11.2005,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,['-373'],-373,Juraj,Klepáč,,,,Gymnázium Matky Alexie
+-911,911,Richard,Koller,17.7.2005,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,['-375'],-375,Martin,Koller,,,,SUŠ Sklenarova 7
+-1072,1072,Samuel ,Koščál,5.4.2006,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,['-688'],-688,Veronika,Koščálová,,,,
+-913,913,Anton,Lorenc,30.11.2005,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,"['-176', '-453']",-176,Branislav,Lorenc,-453,Mária,Lorencová,Sš sv. Vincenta de Paul
+-912,912,Jozef,Lorenc,6.1.2004,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,"['-176', '-453']",-176,Branislav,Lorenc,-453,Mária,Lorencová,Gymnázium Matky Alexie
+-914,914,Lukáš,Polakovič,3.3.2005,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,"['-376', '-454']",-376,Robert,Polakovič,-454,Beáta ,Polakovičova,Gymnázium Alberta Einsteina
+-915,915,Ján,Pružinec,29.12.2004,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,['-377'],-377,Ivan,Pružinec,,,,Gymnazium Jura Hronca
+-916,916,Tomáš,Takács,13.9.2004,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,['-378'],-378,Mikuláš,Takács,,,,Gymnázium Janka Matúšku Galanta
+-924,924,Max,Tokoš,20.10.2005,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,"['-389', '-452']",-389,Marek,Tokoš,-452,Andrea,Tokošová,SŠSOŠ M.Curie Sklodowskej 1 BA
+-917,917,Vitalii,Tsimerman,11.12.2005,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,['-342'],-342,Karol,Maník ,,,,ukrajinec
+-951,951,David ,Volosko,2005,,-41,A19,-2,Pavol,Gostič,-3,Pavol,Šmilňák,['-438'],-438,Eva,Svitanová ,,,,Ukrajina
+-574,574,Jozef,Balogh,10.4.2017,,-19,A6,-20,Filip,Potocký,-21,Anton,Gvora,"['-184', '-586']",-184,Zuzana,Baloghová,-586,Karol,Balogh,
+-813,813,Dávid,Dimitrov,8.5.2017,,-19,A6,-20,Filip,Potocký,-21,Anton,Gvora,['-237'],-237,Dimitar,Dimitrov,,,,MŠ
+-577,577,Tomáš,Habara,28.2.2017,,-19,A6,-20,Filip,Potocký,-21,Anton,Gvora,['-239'],-239,Peter,Habara,,,,
+-578,578,Dominik,Hrdina,5.4.2017,,-19,A6,-20,Filip,Potocký,-21,Anton,Gvora,"['-240', '-703']",-240,Barbora,Hrdinová,-703,Martin,Hrdina,
+-1058,1058,Tomáš,Hurtík,15.2.2017,,-19,A6,-20,Filip,Potocký,-21,Anton,Gvora,"['-657', '-676']",-657,Kamil,Hurtík,-676,Beata,Hurtíková ,
+-579,579,František,Jašica,5.3.2017,,-19,A6,-20,Filip,Potocký,-21,Anton,Gvora,"['-312', '-571']",-312,Miroslav,Jašica,-571,Alexandra,Jašicová,
+-1057,1057,Theo,Machlica,8.2.2017,,-19,A6,-20,Filip,Potocký,-21,Anton,Gvora,"['-662', '-663']",-662,Gabriel,Machlica,-663,Lenka,Machlicová,
+-1068,1068,Oskar,Petreje,9.2.2017,,-19,A6,-20,Filip,Potocký,-21,Anton,Gvora,"['-677', '-678']",-677,Marián,Petreje,-678,Katarína,Petreje,
+-1103,1103,Patrik,Poláček,25.10.2016,,-19,A6,-20,Filip,Potocký,-21,Anton,Gvora,['-733'],-733,Rado,Poláček,,,,
+-1055,1055,Eliáš,Semjan,14.1.2017,,-19,A6,-20,Filip,Potocký,-21,Anton,Gvora,"['-667', '-701']",-667,Jozef,Semjan,-701,Miriam,Semjanová,
+-581,581,Tomáš,Šabo,25.1.2017,,-19,A6,-20,Filip,Potocký,-21,Anton,Gvora,['-243'],-243,Marianna,Šabová,,,,
+-582,582,Markus,Šufliarsky,25.1.2017,,-19,A6,-20,Filip,Potocký,-21,Anton,Gvora,['-543'],-543,Barbara,Šufliarska,,,,
+-801,801,Timotej,Bak,27.1.2016,,-21,A7,-22,Štefan,Ďurajka,-23,Ľuboš,Holík,"['-220', '-548']",-220,Vladimír,Bak,-548,Veronika,Baková,"Predškolák MŠ, Jeseniová 61"
+-705,705,Matúš,Balog,6.1.2016,,-21,A7,-22,Štefan,Ďurajka,-23,Ľuboš,Holík,"['-63', '-535']",-63,Dominik,Balog,-535,Vladimíra,Balogová  Kasajová,Skolka sv. Vincenta de Paul
+-802,802,Peter,Bartal,13.10.2016,katarina.bartal@gmail.com,-21,A7,-22,Štefan,Ďurajka,-23,Ľuboš,Holík,"['-221', '-542']",-221,Roman,Bartal,-542,Katarína,Bartal,MŠ sv Vincenta de Paul
+-566,566,Lukáš,Bunda,20.9.2016,,-21,A7,-22,Štefan,Ďurajka,-23,Ľuboš,Holík,['-418'],-418,Matej,Bunda,,,,
+-568,568,Šimon,Dolina,3.3.2016,,-21,A7,-22,Štefan,Ďurajka,-23,Ľuboš,Holík,['-224'],-224,Peter,Dolina,,,,
+-803,803,Michal,Galik,18.6.2016,,-21,A7,-22,Štefan,Ďurajka,-23,Ľuboš,Holík,"['-225', '-507']",-225,Michal,Gálik,-507,Juliana,Gáliková,MS Exnarova
+-805,805,Vratislav,Kolodziej,18.3.2016,,-21,A7,-22,Štefan,Ďurajka,-23,Ľuboš,Holík,"['-228', '-674']",-228,Michal,Kolodziej,-674,Jana,Kolodziejová,Skolka Velehradska
+-960,960,Ondrej,Lisoň,31.8.2016,,-21,A7,-22,Štefan,Ďurajka,-23,Ľuboš,Holík,['-445'],-445,Miroslava,Lisoňová,,,,
+-806,806,Lukáš,Mišík,28.1.2016,,-21,A7,-22,Štefan,Ďurajka,-23,Ľuboš,Holík,['-155'],-155,Matej,Mišík,,,,MŠ sv. Vincenta de Paul
+-966,966,Timotej,Nemessányi,2.1.2016,,-21,A7,-22,Štefan,Ďurajka,-23,Ľuboš,Holík,['-457'],-457,Nemessanyiova,Veronika,,,,
+-572,572,Dan,Palša,26.8.2016,,-21,A7,-22,Štefan,Ďurajka,-23,Ľuboš,Holík,['-230'],-230,Pavol,Palša,,,,
+-808,808,Karol,Skočík,24.5.2016,,-21,A7,-22,Štefan,Ďurajka,-23,Ľuboš,Holík,"['-164', '-468']",-164,Marián,Skočík,-468,Mirka,Skočíková,MŠ sv. Vincenta
+-809,809,Šimon,Smolen,16.7.2016,,-21,A7,-22,Štefan,Ďurajka,-23,Ľuboš,Holík,['-111'],-111,Pavol,Smolen,,,,Skolka sv. Vincenta
+-810,810,Oliver,Strelník,17.5.2016,,-21,A7,-22,Štefan,Ďurajka,-23,Ľuboš,Holík,['-232'],-232,Jano,Strelník,,,,MŠ Stálicová
+-811,811,Michael,Škurek,24.5.2016,,-21,A7,-22,Štefan,Ďurajka,-23,Ľuboš,Holík,['-233'],-233,Skurek,Lukas,,,,MŠ Stalicova
+-993,993,Patrik,Šťevko,08.05.2016,,-21,A7,-22,Štefan,Ďurajka,-23,Ľuboš,Holík,"['-526', '-527']",-526,Martina,Šťevková,-527,Roman,Šťevko,
+-812,812,Tobiáš,Turlík,24.1.2016,,-21,A7,-22,Štefan,Ďurajka,-23,Ľuboš,Holík,['-234'],-234,Peter,Turlík,,,,MŠ mamy Margity
+-573,573,Matej,Vach,27.9.2016,,-21,A7,-22,Štefan,Ďurajka,-23,Ľuboš,Holík,['-235'],-235,Adriana,Vachová,,,,
+-557,557,Tomáš,Briatka,9.7.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,"['-169', '-128']",-169,Zuzana,Briatkova,-128,Michal,Briatka,
+-1069,1069,Dominik,Csudai,12.1.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,['-681'],-681,Anita,Csudaiova,,,,
+-792,792,Peter,Dovičovič,10.2.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,"['-203', '-470']",-203,Peter,Dovičovič,-470,Ľubomíra,Dovičovičová,"SŠ Sv. Vincenta de Paul, Bachova 4, BA"
+-558,558,Félix,Frajka,17.2.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,['-204'],-204,Martina,Frajkova,,,,
+-499,499,Martin,Jakubov,6.7.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,"['-73', '-599']",-73,Viera,Jakubovova,-599,Pavol,Jakubov,
+-559,559,Richard,Košta,8.1.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,"['-205', '-613']",-205,Dominika,Koštová,-613,Marcel,Košta,
+-793,793,Alex,Kozák,31.3.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,['-206'],-206,Jozef,Kozák,,,,ZS Ostredkova
+-560,560,Adam,Lovecký,28.2.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,['-207'],-207,Mária,Lovecká,,,,
+-794,794,Leo,Lukács,11.5.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,"['-208', '-520']",-208,Lorant,Lukács,-520,Andrea,Lukacs,MS Piesočná
+-795,795,Marián,Maričák,18.6.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,"['-209', '-642']",-209,Marian,Maričák,-642,Daniela,Maričák,ZŠ Ostredková
+-796,796,Tobias,Mutis,17.6.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,['-210'],-210,Matej,Mutiš,,,,ZS Drienova
+-561,561,Mikuláš,Omasta,6.2.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,['-109'],-109,Michal,Omasta,,,,
+-798,798,Alan,Richtárik,30.11.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,"['-212', '-521']",-212,Peter,Richtarik,-521,Martina,Richtáriková,Na Revine 14
+-562,562,Jozef,Rim,11.2.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,['-13'],-13,Iveta,Rimová,,,,
+-799,799,Daniel,Somogyi,7.12.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,['-214'],-214,Tibor,Somogyi,,,,
+-563,563,Michal,Šintaj,10.4.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,"['-215', '-547']",-215,Lubka,Šintajová,-547,Milan,Šintaj,
+-564,564,Filip,Šporánek,14.11.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,"['-216', '-682']",-216,Tamara,Šporánková,-682,František ,Šporánek,
+-612,612,Teo,Teplička,25.11.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,"['-320', '-471']",-320,Marián,Teplička,-471,Soňa,Tepličková,
+-656,656,Norbert,Toth,15.10.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,['-217'],-217,Eva,Toth,,,,MS Piesocna
+-565,565,Eduard,Vasilko,15.10.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,"['-218', '-583']",-218,Denisa,Vasilkova,-583,Tomáš,Vasilko,
+-800,800,Lukáš,Zúggó,25.3.2015,,-23,A8,-25,Jakub,Galko,-79,Anton,Tuhý,['-219'],-219,Martin,Zúggó,,,,"SŠ Sv. Vincenta de Paul, Bachova 4, BA"
+-545,545,Daniel,Balogh,13.8.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,"['-184', '-586']",-184,Zuzana,Baloghová,-586,Karol,Balogh,
+-546,546,Felix,Bodok,6.1.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,['-185'],-185,Martina,Bödöková,,,,
+-1078,1078,Mattias,Braniša,28.02.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,['-693'],-693,Marián Milo ,Braniša,,,,
+-782,782,Adam,Dostál,17.3.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,['-186'],-186,Michal,Dostal,,,,
+-783,783,Ľubomír,Greguš,24.6.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,['-187'],-187,Ľubomír,Greguš,,,,ZS Pavla Marcelyho
+-784,784,Marcus,Halasz,27.1.2015,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,['-188'],-188,Rasto,Halísz,,,,ZŠ Kalinčiakova
+-785,785,Hugo,Horák,16.4.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,['-189'],-189,Matej,Horak,,,,ZŠ Milana Hodžu
+-548,548,Viktor,Koceľa,21.5.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,"['-191', '-581']",-191,Róbert,Koceľa,-581,Marianna,Koceľová,
+-786,786,Lukáš,Kovalančík,28.4.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,"['-192', '-577']",-192,Marek,Kovalančík,-577,Jana,Kovalančíková,ZŠ Vrútocká
+-549,549,Jonáš,Kovalčík,0.05.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,['-193'],-193,Miroslava,Kovalčíková,,,,
+-787,787,Ivo,Krajňak,14.9.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,"['-446', '-194']",-446,Michaela,Krajňaková,-194,Ivo,Krajňak,ZŠ Ostredková
+-550,550,Daniel,Lengyel,16.10.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,"['-195', '-552']",-195,Zuzana,Lengyelová,-552,Tibor,Lengyel,
+-551,551,Oliver,Miklanek,3.2.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,['-196'],-196,Jana,Miklankova,,,,
+-996,996,Filip,Mrocek,8.6.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,"['-387', '-550']",-387,Michal,Mrocek,-550,Lucia,Mrocková,
+-552,552,Kristian,Nemcek,10.3.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,['-197'],-197,Katarína,Nemčeková,,,,
+-553,553,František,Polák,15.5.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,['-198'],-198,Zuzana,Kuglerová,,,,
+-788,788,Ján,Porubský,18.8.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,['-318'],-318,Zuzana,Porubská,,,,"SŠ Sv. Vincenta de Paul, Bachova 4, BA"
+-554,554,Adrian,Rafaj,17.7.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,"['-199', '-578']",-199,Lucia,Rafajová,-578,Karol,Rafaj,
+-789,789,Tomáš,Remenár,22.8.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,"['-161', '-466']",-161,Jozef,Remenár,-466,Andrea,Remenárová,ZŠ Vrútocká
+-555,555,Daniel,Repka,6.3.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,['-200'],-200,Andrej,Repka,,,,
+-790,790,Andrej,Skočík,21.1.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,"['-164', '-468']",-164,Marián,Skočík,-468,Mirka,Skočíková,"SŠ Sv. Vincenta de Paul, Bachova 4, BA"
+-556,556,Matúš,Vach,8.4.2014,,-25,A9,-21,Anton,Gvora,-83,Kevin,Vo Binh,['-235'],-235,Adriana,Vachová,,,,
+-746,746,Timur,Babulík,16.6.2011,,-47,Bývalí hráči,,,,,,,['-127'],-127,Branislav,Babulík,,,,ZŠ za kasárňou
+-638,638,Laura,BACHRATÁ,15.2.2011,,-47,Bývalí hráči,,,,,,,['-393'],-393,Laura,Bachratá,,,,
+-575,575,Oliver,Baluch,16.7.2017,,-47,Bývalí hráči,,,,,,,['-236'],-236,Iva,Baluchová,,,,
+-1035,1035,Andrej,Bandzi,01.03.2017,,-47,Bývalí hráči,,,,,,,['-633'],-633,Peter,Bandzi,,,,
+-706,706,Viliam,Beliš,20.8.2015,,-47,Bývalí hráči,,,,,,,['-64'],-64,Robert,Belis,,,,Materská škola chlumeckeho
+-475,475,Karim,Ben Rhouma,13.1.2007,,-47,Bývalí hráči,,,,,,,['-10'],-10,Andrea,Šlesarová,,,,
+-1046,1046,Tomáš ,Bennár,2.9.2009,,-47,Bývalí hráči,,,,,,,['-643'],-643,Katarína,Bennárová ,,,,
+-539,539,Matúš,Briatka,8.2.2013,,-47,Bývalí hráči,,,,,,,"['-169', '-128']",-169,Zuzana,Briatkova,-128,Michal,Briatka,
+-520,520,Michal,Briatka,2.6.2011,,-47,Bývalí hráči,,,,,,,"['-128', '-169']",-128,Michal,Briatka,-169,Zuzana,Briatkova,
+-515,515,Adam,Cibula,12.8.2010,,-47,Bývalí hráči,,,,,,,['-114'],-114,Ondrej,Cibula,,,,
+-987,987,Oliver Filip,Conzar,28.1.2009,,-47,Bývalí hráči,,,,,,,['-510'],-510,Nikoleta,Fekete,,,,
+-653,653,Denis,Dimov,13.10.2016,,-47,Bývalí hráči,,,,,,,['-65'],-65,Simona,Dimov,,,,MŠ Stalicova
+-483,483,Frederik,Feher,13.5.2014,,-47,Bývalí hráči,,,,,,,['-150'],-150,Silvia,Fehérová,,,,
+-814,814,Dávid,Fehér,13.7.2017,,-47,Bývalí hráči,,,,,,,['-238'],-238,Andras,Feher,,,,
+-534,534,Félix,Féher,17.2.2012,,-47,Bývalí hráči,,,,,,,['-150'],-150,Silvia,Fehérová,,,,
+-1093,1093,Jakub ,Fijko,17.8.2010,,-47,Bývalí hráči,,,,,,,['-719'],-719,Štefan,Fijko,,,,
+-748,748,Michal,Gajdošik,5.7.2011,,-47,Bývalí hráči,,,,,,,['-131'],-131,Michal,Gajdošík,,,,"SŠ Sv. Vincenta de Paul, Bachova 4, BA"
+-486,486,Martin,Gavorník,24.9.2014,,-47,Bývalí hráči,,,,,,,['-33'],-33,Lucia,Halečková,,,,
+-641,641,Dáša,HAMAROVÁ,28.3.2011,,-47,Bývalí hráči,,,,,,,['-399'],-399,Ivana,Hamarova,,,,
+-667,667,Juraj,Hanák,4.12.2007,,-47,Bývalí hráči,,,,,,,['-2'],-2,Juraj,Hanák,,,,ZS Ostredkova
+-668,668,Michal,Hanták,6.9.2007,,-47,Bývalí hráči,,,,,,,['-3'],-3,Michal,Hanták,,,,Medzilaborecká
+-510,510,Viktor,Hoffman,18.5.2009,,-47,Bývalí hráči,,,,,,,['-102'],-102,Anna,Benkovičová,,,,
+-491,491,Adrián,Hönisch,8.11.2015,,-47,Bývalí hráči,,,,,,,['-47'],-47,Katarina,Hönischova,,,,
+-1064,1064,Maxim,Horák,15.5.2017,,-47,Bývalí hráči,,,,,,,['-189'],-189,Matej,Horak,,,,
+-505,505,Samuel,Horečný,19.12.2008,,-47,Bývalí hráči,,,,,,,['-85'],-85,Patrícia,Križánková,,,,
+-936,936,Adrián,Hrica,,,-47,Bývalí hráči,,,,,,,[],,,,,,,
+-480,480,Mário,Hudek,20.9.2006,,-47,Bývalí hráči,,,,,,,['-17'],-17,Lenka,Hudeková,,,,
+-496,496,Adam,Ižo,18.10.2015,,-47,Bývalí hráči,,,,,,,['-66'],-66,Livia,Ižova,,,,
+-697,697,Juraj,Jediný,6.2.2016,,-47,Bývalí hráči,,,,,,,['-50'],-50,Tomáš,Jediný,,,,"MŠ Velehradská, EP Tekovská"
+-523,523,Samuel,Jóna,11.4.2011,,-47,Bývalí hráči,,,,,,,['-134'],-134,Zuzana,Jónová,,,,
+-707,707,Dominik,Kiss,11.12.2015,,-47,Bývalí hráči,,,,,,,['-68'],-68,Stefan,Kiss,,,,Materska skola Haburska
+-927,927,Marína,KĽUČÁROVÁ,25.5.2007,,-47,Bývalí hráči,,,,,,,['-401'],-401,Marek,Kľučár,,,,ZŠ Matky Alexie
+-752,752,Filip,Kočiš,6.5.2011,,-47,Bývalí hráči,,,,,,,['-138'],-138,,,,,,ZŠ Vrútocká
+-698,698,Samo,Kráčalík,5.6.2015,,-47,Bývalí hráči,,,,,,,['-52'],-52,Boris,Kráčalík,,,,ZŠ Vrútocká
+-815,815,Oliver,Krajčík,3.2.2017,,-47,Bývalí hráči,,,,,,,"['-30', '-582']",-30,Michal,Krajčík,-582,Klaudia,Krajčíková,
+-1063,1063,Damián,Krlín,4.10.2017,,-47,Bývalí hráči,,,,,,,"['-660', '-661']",-660,,Krlín,-661,Romana,Krlín,
+-683,683,Oliver,Kyndl,25.4.2014,,-47,Bývalí hráči,,,,,,,['-31'],-31,Roman,Kyndl,,,,ZŠ Drieňová
+-498,498,Lukas,Lednar,15.9.2015,,-47,Bývalí hráči,,,,,,,['-70'],-70,Angelika,Nistelbergerova,,,,
+-493,493,Alexander,Ludvigh,19.7.2015,,-47,Bývalí hráči,,,,,,,['-53'],-53,Lenka,Ludvighova,,,,
+-1045,1045,Šimon,Maričák,07.03.2018,,-47,Bývalí hráči,,,,,,,"['-642', '-209']",-642,Daniela,Maričák,-209,Marian,Maričák,
+-652,652,Patrik,Marko,9.3.2015,,-47,Bývalí hráči,,,,,,,['-55'],-55,Michaela,Marko,,,,"ZŠ SNP, Ostredková 14, Bratislava"
+-830,830,Viliam,Marko,30.12.2009,,-47,Bývalí hráči,,,,,,,['-269'],-269,Vanda,Prikler,,,,Spojena skola Tilgnerova
+-500,500,Jozef,Martinak,16.1.2015,,-47,Bývalí hráči,,,,,,,['-74'],-74,Helena,Martiniaková,,,,
+-957,957,Adrián,Masaryk,28.08.2005,,-47,Bývalí hráči,,,,,,,['-442'],-442,Júlia,Masaryková,,,,"Gymnázium Bilíkova 24, Bratislava"
+-956,956,Otto,Mateovič,30.3.2007,,-47,Bývalí hráči,,,,,,,['-441'],-441,Jana,Mateovičová,,,,Gymnázium Vazovova
+-501,501,Lukáš,Mäsiar,3.2.2016,,-47,Bývalí hráči,,,,,,,['-75'],-75,Adriána,Mäsiarová,,,,
+-928,928,Sára,MESIARIKOVÁ,23.10.2009,,-47,Bývalí hráči,,,,,,,['-407'],-407,Peter,Mesiarik,,,,ZŠ matky alexie
+-1054,1054,Anthony,Mihál,28.7.2017,,-47,Bývalí hráči,,,,,,,"['-665', '-714']",-665,Marek,Mihál,-714,Miroslava,Mihálová,
+-999,999,Dávid ,Nguyen,27.4.2014,,-47,Bývalí hráči,,,,,,,['-553'],-553,Truong Son,Nguyen,,,,
+-797,797,Mário,Okoši,27.4.2015,,-47,Bývalí hráči,,,,,,,['-211'],-211,Marek,Okosi,,,,MŠ Piesočná
+-519,519,Martin,Ošvát,29.6.2009,,-47,Bývalí hráči,,,,,,,['-124'],-124,Katerina,Osvatova,,,,
+-940,940,Edmund,Paulický,,,-47,Bývalí hráči,,,,,,,['-427'],-427,Jaroslav ,Paulický ,,,,
+-939,939,Ervin ,Paulický ,27.1. 2015,,-47,Bývalí hráči,,,,,,,['-427'],-427,Jaroslav ,Paulický ,,,,
+-1006,1006,Eliáš,Pochylý,25.11.2014,,-47,Bývalí hráči,,,,,,,['-579'],-579,Martin,Pochylý,,,,
+-675,675,Matúš,Rendek,27.2.2006,,-47,Bývalí hráči,,,,,,,['-19'],-19,Jozef,Rendek,,,,Spojená škola sv.Uršule
+-1065,1065,Elias,Richtárik,13.8.2017,,-47,Bývalí hráči,,,,,,,['-212'],-212,Peter,Richtarik,,,,
+-658,658,Alexander,Sabo,22.3.2005,,-47,Bývalí hráči,,,,,,,['-388'],-388,Maryna,Mykhailenko,,,,Obchodná akadémia Nevadzova 3
+-686,686,Andrej,Sendek,18.8.2014,,-47,Bývalí hráči,,,,,,,['-36'],-36,Andrej,Sendek,,,,
+-1042,1042,Tamara,Sendeková,08.02.2017,,-47,Bývalí hráči,,,,,,,['-36'],-36,Andrej,Sendek,,,,
+-687,687,Almaz,Shadmankulov,6.2.2014,,-47,Bývalí hráči,,,,,,,['-37'],-37,Timur,Shadmankulov,,,,ZS Budatinska
+-507,507,Martin,Stuchlík,14.10.2008,,-47,Bývalí hráči,,,,,,,['-93'],-93,Martina,Stuchlíková,,,,
+-580,580,Teodor,Sýkora,1.1.2017,,-47,Bývalí hráči,,,,,,,['-242'],-242,Anna,Sykorova,,,,
+-734,734,Damián,Šteblaj,7.9.2009,,-47,Bývalí hráči,,,,,,,['-21'],-21,Tomaz,Steblaj,,,,ZŠ Pavla Marcelyho
+-678,678,Dean,Šteblaj,24.11.2006,,-47,Bývalí hráči,,,,,,,['-21'],-21,Tomaz,Steblaj,,,,ZŠ Pavla Marcelyho
+-508,508,Samuel,Štefanička,18.9.2008,,-47,Bývalí hráči,,,,,,,['-94'],-94,Miriam,Štefaničková,,,,
+-720,720,Alex,Uhlíř,28.7.2008,,-47,Bývalí hráči,,,,,,,['-95'],-95,Radoslav,Uhlir,,,,ZŠ Medzilaborecká
+-1071,1071,Jakub,Urban,19.05.2017,,-47,Bývalí hráči,,,,,,,['-685'],-685,Miroslava,Palieriková,,,,
+-721,721,Jakub,Uváček,26.7.2008,,-47,Bývalí hráči,,,,,,,['-96'],-96,Martin,Uváček,,,,CZŠ Narnia
+-689,689,Samuel,Vachan,23.1.2014,,-47,Bývalí hráči,,,,,,,['-39'],-39,Dušan,Vachan,,,,
+-690,690,Filip,Vavro,26.2.2014,,-47,Bývalí hráči,,,,,,,['-40'],-40,Roman,Vavro,,,,ZS Odborarska 2
+-691,691,Lars,Vavro,24.12.2014,,-47,Bývalí hráči,,,,,,,['-40'],-40,Roman,Vavro,,,,ZS Odborarska 2
+-650,650,Lucia,VICENÍKOVÁ,11.6.2007,,-47,Bývalí hráči,,,,,,,['-414'],-414,Andrea,Škrovánková,,,,
+-654,654,Teodor,Weis,5.10.2015,,-47,Bývalí hráči,,,,,,,['-79'],-79,Miroslava,Weis,,,,
+-723,723,Peter,Zborník,11.1.2008,,-47,Bývalí hráči,,,,,,,['-98'],-98,Zdenko,Zborník,,,,"ZŠ Medzilaborecká 11, Bratislava"
+-1040,1040,Michal,Bolf,13.03.2017,,-48,Domino Kids ml,-20,Filip,Potocký,-5,Tomáš,Turlík,['-638'],-638,Michal,Bolf,,,,
+-1032,1032,Marko,Ďurajka,08.12.2016,,-48,Domino Kids ml,-20,Filip,Potocký,-5,Tomáš,Turlík,['-524'],-524,Štefan ,Ďurajka,,,,
+-1041,1041,Samuel,Fiala,15.06.2017,,-48,Domino Kids ml,-20,Filip,Potocký,-5,Tomáš,Turlík,['-639'],-639,Tomáš,Fiala,,,,
+-1026,1026,Tomáš,Habara,28.2.2017,,-48,Domino Kids ml,-20,Filip,Potocký,-5,Tomáš,Turlík,['-239'],-239,Peter,Habara,,,,
+-1047,1047,Jana,Habarová,30.10.2014,,-48,Domino Kids ml,-20,Filip,Potocký,-5,Tomáš,Turlík,['-239'],-239,Peter,Habara,,,,
+-1039,1039,Matúš,Hort,23.06.2017,,-48,Domino Kids ml,-20,Filip,Potocký,-5,Tomáš,Turlík,['-637'],-637,Martina,Hortová,,,,
+-1033,1033,Ondrej,Kello,21.01.2016,,-48,Domino Kids ml,-20,Filip,Potocký,-5,Tomáš,Turlík,['-67'],-67,Ivana,Kellová Štiavnická,,,,
+-1025,1025,Klára,Kellová,21.1.2016,,-48,Domino Kids ml,-20,Filip,Potocký,-5,Tomáš,Turlík,['-67'],-67,Ivana,Kellová Štiavnická,,,,
+-1036,1036,Daniel,Krištofič,03.05.2017,,-48,Domino Kids ml,-20,Filip,Potocký,-5,Tomáš,Turlík,['-634'],-634,Zuzana,Krištofičová,,,,
+-1029,1029,Adam,Minarovič,10.01.2016,,-48,Domino Kids ml,-20,Filip,Potocký,-5,Tomáš,Turlík,['-629'],-629,Kristína,Minarovičová,,,,
+-1106,1106,Adam,Mojžiš,17.9. 2016,,-48,Domino Kids ml,-20,Filip,Potocký,-5,Tomáš,Turlík,['-736'],-736,Mária,Mojžišová,,,,
+-1048,1048,Lukáš,Mundok,18.02.2016,,-48,Domino Kids ml,-20,Filip,Potocký,-5,Tomáš,Turlík,['-538'],-538,Kristína,Mundoková,,,,
+-1049,1049,Kristína,Mundoková,18.02.2016,,-48,Domino Kids ml,-20,Filip,Potocký,-5,Tomáš,Turlík,['-538'],-538,Kristína,Mundoková,,,,
+-1037,1037,Filip,Pobijak,19.09.2017,,-48,Domino Kids ml,-20,Filip,Potocký,-5,Tomáš,Turlík,['-635'],-635,Marek,Pobijak,,,,
+-1034,1034,Marína,Roskošová,27.08.2016,,-48,Domino Kids ml,-20,Filip,Potocký,-5,Tomáš,Turlík,['-632'],-632,Silvia,Roskošová,,,,
+-1031,1031,Krištof,Sitár,10.09.2016,,-48,Domino Kids ml,-20,Filip,Potocký,-5,Tomáš,Turlík,['-631'],-631,Zuzana,Sitárová,,,,
+-1043,1043,Teodor Ján,Sýkora,01.01.2017,,-48,Domino Kids ml,-20,Filip,Potocký,-5,Tomáš,Turlík,['-242'],-242,Anna,Sykorova,,,,
+-1030,1030,Cyril,Timko,26.10.2016,,-48,Domino Kids ml,-20,Filip,Potocký,-5,Tomáš,Turlík,['-630'],-630,Dorota,Timková,,,,
+-1038,1038,Lucia,Zelenayová,22.06.2017,,-48,Domino Kids ml,-20,Filip,Potocký,-5,Tomáš,Turlík,['-636'],-636,Katarína,Zelenayová,,,,
+-1044,1044,Viliam,Zeman,12.07.2018,,-48,Domino Kids ml,-20,Filip,Potocký,-5,Tomáš,Turlík,['-641'],-641,Zuzana,Zemanová,,,,
+-770,770,Artur,Adámek,8.5.2013,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,['-167'],-167,Gabriel,Adamek,,,,ZŠ Černyševského 8
+-930,930,Katarína Rita,Árvaiová,16.4.2013,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,['-244'],-244,Jozef,Árvai,,,,Základná škola a Gymnázium s vyučovacím jazykom maďarským
+-967,967,Adam,Babulic,15.12.2013,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,"['-459', '-572']",-459,Martin,Babulic,-572,Lucia,Babulicová,
+-771,771,Adam,Bielovský,28.5.2013,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,"['-168', '-565']",-168,Karol,Bielovský,-565,Jana,Bielovská,"SŠ Sv. Vincenta de Paul, Bachova 4, BA"
+-679,679,Dodo,Csolle,13.7.2014,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,['-23'],-23,Csolle,Miro,,,,ZŠ Vrútocká
+-772,772,Dominik,Čerňanský,27.8.2013,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,['-295'],-295,Maroš,Černanský,,,,ZŠ Železničná
+-773,773,Sebastián,Grujbár,14.12.2013,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,"['-171', '-603']",-171,Jozef,Grujbár,-603,Lenka,Grujbárová,ZS Vrutocka
+-774,774,Martin,Hariš,21.1.2013,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,"['-172', '-474']",-172,Martin,Hariš,-474,Paulína,Harišová,"SŠ Sv. Vincenta de Paul, Bachova 4, BA"
+-775,775,Ela,Hradecká,26.6.2013,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,['-173'],-173,Miroslav,Hradecký,,,,ZŠ Ostredkova
+-547,547,Marco,Hreus,10.12.2014,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,['-190'],-190,Jana,Hreusová,,,,
+-776,776,Samuel,Chudík,19.10.2013,chudikovaromana@gmail.com,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,"['-174', '-559']",-174,Ján,Chudík,-559,Romana,Chudíková,Vrutocka ul. BA
+-778,778,Ján,Lorenc,24.8.2013,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,"['-176', '-453']",-176,Branislav,Lorenc,-453,Mária,Lorencová,"SŠ Sv. Vincenta de Paul, Bachova 4, BA"
+-962,962,Simon,Lovič,18.12.2013,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,['-449'],-449,Adriana,Lovičová,,,,
+-779,779,Michal,Majerský,31.5.2013,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,"['-120', '-649']",-120,Patrik,Majerský,-649,Katarína,Majerská ,ZŠ Ostredkova
+-1011,1011,Michal ,Matuškovič,7.12.2013,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,['-607'],-607,Martina,Hanzalíková,,,,
+-780,780,Adam,Mikuláš,9.2.2013,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,['-177'],-177,Viliam,Mikuláš,,,,ZS Kuliskova
+-781,781,Ondrej,Moravčík,7.11.2013,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,['-178'],-178,Ľubomír,Moravčík,,,,"ZŠ SNP, Ostredkova 14"
+-968,968,Tobias,Morávek,30.7.2013,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,['-460'],-460,,Moravek,,,,
+-540,540,Viktor,Nagy,9.1.2013,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,"['-179', '-673']",-179,Katarína,Nagyová,-673,Tomáš,Nagy,
+-777,777,Jakub,Obložinský,18.7.2013,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,['-175'],-175,Marek,Obložinský,,,,"ZŠ Drieňová, Bratislava"
+-542,542,Martin,Ponc,12.11.2013,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,"['-181', '-573']",-181,Katarina,Poncova,-573,Roman,Ponc,
+-544,544,Slavomír,Zemko,30.10.2013,,-28,G10,-8,Patrik,Kratochvíl,-29,Yaro,Dudko,['-183'],-183,Maria,Zemkova,,,,
+-754,754,Peter,Basoš,20.5.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,['-146'],-146,Ivan,Basoš,,,,ZŠ Matky Alexie
+-532,532,Samuel,Berinec,23.10.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,['-147'],-147,Jana,Berincová,,,,
+-533,533,Urban,Čverha,14.12.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,['-148'],-148,Pavol,Čverha,,,,
+-755,755,Fresco,Di Gianluca,17.2.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,"['-149', '-698']",-149,MASSIMILIANO,DI FRESCO,-698,Gabriela,Bôžiková ,"SŠ Sv. Vincenta de Paul, Bachova 4, BA"
+-1085,1085,Yuryi,Dudko,30.8.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,['-278'],-278,Yaroslav,Dudko,,,,
+-535,535,Dominik,Chvojka,30.7.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,['-151'],-151,Pavel,Chvojka,,,,
+-756,756,Adam,Ihnát,29.5.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,"['-152', '-602']",-152,Igor,Ihnát,-602,Veronika,Ihnátová,Vrutocka 58
+-757,757,Michal,Koščuš,25.12.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,"['-69', '-479']",-69,Gabriel,Koščuš,-479,Marianna,Koščušová,"SŠ Sv. Vincenta de Paul, Bachova 4, BA"
+-758,758,Tomáš,Laurinc,29.2.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,"['-153', '-540']",-153,Rastislav,Laurinc,-540,Veronika,Laurincová,ZŠ Bajkalská
+-759,759,Max,Majerský,2.10.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,"['-154', '-536']",-154,Rado,Majersky,-536,Alexandra,Majerská,ZŠ Ostredková
+-760,760,Viliam,Mišík,16.12.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,['-155'],-155,Matej,Mišík,,,,"SŠ Sv. Vincenta de Paul, Bachova 4, BA"
+-761,761,Matej,Mravec,8.11.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,['-156'],-156,Viliam,Mravec,,,,"SŠ Sv. Vincenta de Paul, Bachova 4, BA"
+-762,762,Tomáš,Novák,19.12.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,['-157'],-157,Jaro,Novák,,,,SZŠ Felix
+-763,763,Lára,Nováková,19.12.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,['-157'],-157,Jaro,Novák,,,,SZŠ Felix
+-764,764,Michal,Olík,19.3.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,"['-158', '-699']",-158,Peter,Olík,-699,Katarína,Olíková,ZŠ Vrútocká
+-765,765,Martin,Patoprsty,10.6.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,"['-159', '-597']",-159,Martin,Patoprsty,-597,Lucia,Patoprstá Polomská,Zakladna skola waldorfska
+-766,766,Adam,Pavle,19.5.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,['-160'],-160,Janka,Pavle,,,,"ZS Mierová, BA"
+-767,767,Andrej,Remenár,7.11.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,"['-161', '-466']",-161,Jozef,Remenár,-466,Andrea,Remenárová,ZŠ Vrútocká
+-536,536,Maksym,Rudenko,26.3.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,['-162'],-162,Marina,Kretska,,,,
+-768,768,Ilya,Sepeši,6.4.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,"['-163', '-525']",-163,Rastislav,Sepesi,-525,Yulia,Rozhkova,ZS Ostredkova
+-769,769,Michal,Skočík,7.8.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,"['-164', '-468']",-164,Marián,Skočík,-468,Mirka,Skočíková,"SŠ Sv. Vincenta de Paul, Bachova 4, BA"
+-537,537,Dávid,Tománek,26.10.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,"['-165', '-528']",-165,Jana,Tomankova,-528,Juraj ,Tománek ,
+-538,538,Ivo,Truchan,21.12.2012,,-30,G11,-30,Igor,Kalafut,-31,Peter,Slobodník,"['-166', '-544']",-166,Jarmila,Truchanová,-544,Pavol,Truchan,
+-745,745,Karim,Arar,24.12.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,['-126'],-126,Mustafa,Arar,,,,ZŠ Vrútocká
+-989,989,Radoslav,Bielka,15.8.2010,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,['-516'],-516,Ľubica,Bielková,,,,
+-747,747,Martin,Cagalinec,14.7.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,"['-129', '-596']",-129,Martin,Cagalinec,-596,Andrea,Orihelová,ZS Medzilaborecka
+-1051,1051,Karol ,Cajchan ,20.12.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,['-650'],-650,Karol,Cajchan,,,,
+-521,521,Timur,Fitala,4.4.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,"['-592', '-130']",-592,Katarína,Potúčková,-130,Imrich,Fitala,
+-749,749,Roman,Goliaš,26.9.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,"['-265', '-522']",-265,Peter,Goliáš,-522,Katarína,Goliášová,"SŠ Sv. Vincenta de Paul, Bachova 4, BA"
+-750,750,Noel,Jakupaj,8.6.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,['-4'],-4,Artan,Jakupaj,,,,ZŠ Mierova
+-522,522,Ján,Janeta,8.2.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,['-133'],-133,Monika,Janetova,,,,
+-524,524,Tomáš,Jonák,2.6.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,['-135'],-135,Jana,Jonáková,,,,
+-751,751,Jakub,Jukl,15.8.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,['-137'],-137,Zdeno,Jukl,,,,ZŠ Vrútocká
+-1082,1082,Peter ,Kanda,23.11.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,"['-706', '-710']",-706,Peter,Kanda,-710,Marta,Beréšová,
+-988,988,Tobias ,Kopač,30.07.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,['-517'],-517,Monika,Kopačová,,,,
+-526,526,Daniel,Kratochvila,17.6.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,['-139'],-139,Dagmar,Kratochvílová,,,,
+-1024,1024,Goran,Ľach,12.7.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,['-624'],-624,Paulína,Ľachová,,,,
+-527,527,Lukáš,Maas,5.4.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,"['-140', '-615']",-140,Andrea,Maasová,-615,Peter,Maas,
+-1021,1021,Adam ,Novosad,08.07.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,['-619'],-619,Adam,Novosad,,,,
+-528,528,Martin,Sabol,16.11.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,['-141'],-141,Martina,Sabolová,,,,
+-529,529,Kristian,Šramka,25.5.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,"['-515', '-142']",-515,Jana,Šramková,-142,Martin,Šramka,
+-530,530,Marco,Tačovský,19.4.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,['-143'],-143,Lucia,Tačovská,,,,
+-753,753,Filip,Turic,12.2.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,"['-144', '-513']",-144,Jan,Turic,-513,Marcela,Turicová,ZS SNP Ostredkova
+-531,531,Adam,Žilinek,15.6.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,['-145'],-145,Lucia,Žilinková,,,,
+-1050,1050,Filip ,Žilinský,25.4.2011,,-32,G12,-33,Martin,Šramka,-54,Mário,Mikuška,['-648'],-648,Zuzana,Žilinská,,,,
+-1028,1028,Jakub,Bagín,16.6.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,['-628'],-628,Milan,Bagín,,,,
+-736,736,Daniel,Drahoš,19.12.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,"['-115', '-448']",-115,Ladislav,Drahoš,-448,Eva,Drahošová,"ZŠ Borodáčova 2 , Bratislava"
+-516,516,Evan,Droppa,29.10.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,"['-116', '-537']",-116,Iveta,Droppova,-537,Tomáš,Šajben,
+-737,737,Timotej,Franek,26.11.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,['-117'],-117,Ján,Franek,,,,ZS Drienova
+-1108,1108,Abtin,Ghanizadeh,17.3.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,"['-738', '-739']",-738,,,-739,Parisa,Tafvizi,
+-738,738,Tomáš,Hanták,28.3.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,"['-3', '-534']",-3,Michal,Hanták,-534,Janka,Hantáková,Medzilaborecká
+-739,739,Maximilian,Chudík,31.12.2010,chudikovaromana@gmail.com,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,"['-174', '-559']",-174,Ján,Chudík,-559,Romana,Chudíková,Vrutocka ul. BA
+-1027,1027,Jakub,Kurčík,15.6.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,"['-626', '-627']",-626,Luboš,Kurčík,-627,Zdenka,Kurčíková,
+-517,517,Filip,Lauko,4.11.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,"['-119', '-564']",-119,Zuzana,Laukova,-564,Marián,Košťal,
+-740,740,Martin,Majerský,7.5.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,"['-120', '-649']",-120,Patrik,Majerský,-649,Katarína,Majerská ,ZŠ Ostredková
+-983,983,Michal ,Matolek ,18.9.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,"['-502', '-503']",-502,Pavol ,Matolek ,-503,Iveta,Škottová,
+-741,741,Matúš,Meton,18.4.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,"['-121', '-465']",-121,František,Meton,-465,Eva,Metonová,Gymnázium Ladislava Sáru
+-742,742,Tomáš,Minařík,21.11.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,['-122'],-122,Tomáš,Minařík,,,,ZŠ Nevädzová
+-950,950,Mateo ,Montalvo ,18.7.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,['-436'],-436,Erick ,Montalvo ,,,,Bachová 
+-518,518,Benjamín,Musayev,20.5.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,['-123'],-123,Eva,Musaevová,,,,
+-743,743,Pavol,Nádaždy,25.12.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,['-77'],-77,Pavol,Nadazdy,,,,ZS Za Kasarnou
+-980,980,Jakub,Príbelský,16.08.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,"['-497', '-511']",-497,Ján,Príbelský,-511,Barbora,Príbelská,
+-845,845,Juraj,Rebroš,22.2.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,['-286'],-286,Branislav,Rebroš,,,,ZS Kosicka
+-597,597,David,Ružička,22.9.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,['-287'],-287,Monika,Ružičková Kučerová,,,,
+-1005,1005,Nikolai,Sorokoput,7.12.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,['-580'],-580,Marina,Sorokoput,,,,
+-744,744,Tomáš,Svitek,16.6.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,"['-125', '-426']",-125,Tomáš,Svitek,-426,Adriana,Sviteková,SŠ. sv Vincenta de Paul
+-970,970,Viktor ,Treskoň,02.07.2010,,-34,G13,-25,Jakub,Galko,-35,Patrik,Šutjak,"['-477', '-646']",-477,Silvia,Schwarczová,-646,Martin,Treskoň,
+-1002,1002,Timotej,Bojňanský,19.05.2009,,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,"['-562', '-563']",-562,Miriam,Bojňanská,-563,Jaroslav,Bojňanský,
+-1003,1003,Michal,Brindzík,2.10.2009,,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,['-574'],-574,Milan,Brindzík,,,,
+-725,725,Luki,Dáni,2.4.2009,,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,['-297'],-297,Michal,Dáni,,,,ZŠ Ostredková
+-985,985,Michal,Daráš,20.1.2009,,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,['-504'],-504,Branislav,Daráš,,,,
+-975,975,Adam,Franček,14.8.2009,,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,"['-487', '-488']",-487,Eva,Frančeková,-488,Róbert,Franček,
+-509,509,Juraj,Gerber,16.8.2009,,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,"['-101', '-498']",-101,Barbora,Gerberová,-498,Jozef ,Gerber ,
+-1004,1004,Jakub,Gunár,2.4.2008,,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,"['-575', '-576']",-575,Peter,Gunár,-576,Slávka,Gunárová,
+-504,504,Samuel,Gunár,13.9.2008,,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,"['-83', '-647']",-83,Adrian,Gunárová,-647,Linda,Gunárova,
+-714,714,Martin,Gyurkovics,17.8.2008,,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,"['-84', '-584']",-84,Martin,Gyurkovics,-584,Silvia,Gyurkovicsová,Gymnazium Ladislava Novomeskeho
+-726,726,Ondrej,Jakubec,16.6.2009,,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,"['-48', '-462']",-48,Martin,Jakubec,-462,Petra,Jakubcová ,Gymnázium L. Novomestského
+-511,511,Jakub,Kandray,17.4.2009,,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,['-104'],-104,Veronika,Kandrayova,,,,
+-728,728,Tomáš,Koščuš,24.9.2009,,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,"['-69', '-479']",-69,Gabriel,Koščuš,-479,Marianna,Koščušová,GLN Tomášikova
+-729,729,Tomáš,Krištof,29.5.2009,tomasko.kristof@gmail.com,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,"['-105', '-493']",-105,Marek,Krištof,-493,Jana,Krištofová,ZŠ Ostredková
+-730,730,Jakub,Kulík,10.7.2009,,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,['-106'],-106,Miroslav,Kulik,,,,ZS Nevadzova 2
+-1023,1023,Viktor,Nekhoroskov,1.8.2008,,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,['-623'],-623,Kateryna,Nekhoroskov,,,,
+-512,512,Štefan,Novák,7.10.2009,,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,['-108'],-108,Martina,Novakova,,,,
+-513,513,Martin,Omasta,19.6.2009,,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,['-109'],-109,Michal,Omasta,,,,
+-733,733,Dominik,Smolen,21.11.2009,,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,['-111'],-111,Pavol,Smolen,,,,Zs.sv. Vincenta
+-1022,1022,Artem,Sytnyk,27.10.2009,,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,['-622'],-622,Kateryna,Sytnyk,,,,
+-514,514,Boris,Švec,9.2.2009,,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,['-112'],-112,Andrea,Svecova,,,,
+-735,735,Patrik,Zrubec,16.12.2009,,-36,G14,-5,Tomáš,Turlík,-81,Patrik ,Arnold ,"['-113', '-566']",-113,Rado,Zrubec,-566,Romana,Zrubcová,Gymnázium L. Novomeského
+-503,503,Martin,Divéky,4.8.2008,,-38,G15,-4,Marek,Baxa,-36,William,Rim,['-80'],-80,Marta,Divékyová,,,,
+-1102,1102,Marco ,Dunda,2.4.2008,,-38,G15,-4,Marek,Baxa,-36,William,Rim,['-732'],-732,Klaudia ,Kučerová,,,,
+-713,713,Jakub,Fintor,27.8.2008,,-38,G15,-4,Marek,Baxa,-36,William,Rim,['-81'],-81,Vladislav,Fintor,,,,Waldorfská ZŠ
+-1095,1095,Maxim,Harcenko,26.01.2008,harcenkomaksin291@gmail.com,-38,G15,-4,Marek,Baxa,-36,William,Rim,['-722'],-722,Elena,Sklarova,,,,
+-715,715,Adam,Hrotek,21.5.2008,,-38,G15,-4,Marek,Baxa,-36,William,Rim,['-86'],-86,Radomír,Hrotek,,,,Evanjelická základná škola Palisády 57 Bratislava
+-506,506,Dominik,Javorka,25.4.2008,,-38,G15,-4,Marek,Baxa,-36,William,Rim,['-87'],-87,Dominik,Javorka,,,,
+-727,727,Juraj,Kalafut,26.10.2009,,-38,G15,-4,Marek,Baxa,-36,William,Rim,['-103'],-103,Igor,Kalafut,,,,ZŠ Matky Alexie
+-716,716,Ondrej,Majer,25.10.2008,,-38,G15,-4,Marek,Baxa,-36,William,Rim,['-88'],-88,Tomáš,Majer,,,,ZŠ Mierová 46
+-731,731,Matej,Mohnaczký,31.8.2009,,-38,G15,-4,Marek,Baxa,-36,William,Rim,['-107'],-107,Aurel,Mohnaczký,,,,ZŠ Ostredková
+-717,717,Ondrej,Novotný,19.9.2008,,-38,G15,-4,Marek,Baxa,-36,William,Rim,['-89'],-89,Ondrej,Novotný,,,,ZŠ Ostredková
+-718,718,Samuel,Papcún,2.10.2008,,-38,G15,-4,Marek,Baxa,-36,William,Rim,['-90'],-90,Juraj,Papcun,,,,ZŠ Nevädzova
+-1087,1087,Samuel ,Paulo,15.10. 2008,,-38,G15,-4,Marek,Baxa,-36,William,Rim,['-713'],-713,Natália ,Paulová,,,,
+-655,655,Balázs,Popély,16.5.2008,,-38,G15,-4,Marek,Baxa,-36,William,Rim,['-91'],-91,Andrea,Popély,,,,"ZŠ a Gym. s VJM, Dunajská 13,Bratislava"
+-732,732,Martin,Porubský,21.8.2009,,-38,G15,-4,Marek,Baxa,-36,William,Rim,['-318'],-318,Zuzana,Porubská,,,,Gymnazium Grosslingova
+-979,979,Matej,Príbelský,02.08.2008,,-38,G15,-4,Marek,Baxa,-36,William,Rim,"['-497', '-511']",-497,Ján,Príbelský,-511,Barbora,Príbelská,
+-833,833,Martin,Ragan,11.6.2009,radovan.ragan@zoznam.sk,-38,G15,-4,Marek,Baxa,-36,William,Rim,"['-272', '-473']",-272,Radovan,Ragan,-473,Júlia,Raganová,"SŠ sv. Vincenta Bachova, Bratislava"
+-719,719,Ján,Sádovský,2.1.2008,jan.sadovsky@vdp.sk,-38,G15,-4,Marek,Baxa,-36,William,Rim,"['-92', '-464']",-92,Michal,Sádovský,-464,Katarína,Sádovská,"Gymnázium L. Novomeského, Tomášikova ul., Bratislava"
+-823,823,Branislav,Šaradín,3.12.2008,,-38,G15,-4,Marek,Baxa,-36,William,Rim,['-258'],-258,Cyril,Šaradín,,,,Spojená škola Sv. Vincenta de Paul
+-1000,1000,Pavol Juraj ,Tuhý,19.3.2009,,-38,G15,-4,Marek,Baxa,-36,William,Rim,['-555'],-555,Anton,Tuhý,,,,
+-722,722,Marek,Vráblik,21.10.2008,,-38,G15,-4,Marek,Baxa,-36,William,Rim,['-97'],-97,Roman,Vráblik,,,,"ZŠ Za Kasárňou, Bratislava"
+-724,724,Martin Jakub,Žilinský,12.11.2008,,-38,G15,-4,Marek,Baxa,-36,William,Rim,['-99'],-99,Martin,Žilinský,,,,"GJH, Sekunda"
+-1079,1079,Vladyslav,Apolonskyi,3.3.2007,,-44,G16,-88,Reza ,Ghanizadeh,,,,['-696'],-696,Olga,Apolonska,,,,
+-666,666,Marek,Baran,23.4.2007,,-44,G16,-88,Reza ,Ghanizadeh,,,,['-1'],-1,Juraj,Baran,,,,ZŠ Pankuchova
+-672,672,Michal,Bodnár,15.10.2006,,-44,G16,-88,Reza ,Ghanizadeh,,,,['-15'],-15,Peter,Bodnár,,,,Novohradska 3
+-673,673,Oliver,Dobrovič,8.11.2006,,-44,G16,-88,Reza ,Ghanizadeh,,,,['-16'],-16,Vladimír,Dobrovič,,,,ZŠ Kalinčiaková Bratislava
+-476,476,Nicolas,Dorušiak,2.6.2007,,-44,G16,-88,Reza ,Ghanizadeh,,,,['-311'],-311,Beáta,Dorušiaková,,,,
+-477,477,Dominik,Gajdoš,25.8.2007,,-44,G16,-88,Reza ,Ghanizadeh,,,,['-12'],-12,Jana,Gajdošová,,,,
+-965,965,Peter ,Gregor,10.7.2007,,-44,G16,-88,Reza ,Ghanizadeh,,,,['-456'],-456,Erika,Gregorová ,,,,
+-669,669,Leonardo,Jakupaj,10.11.2007,,-44,G16,-88,Reza ,Ghanizadeh,,,,['-4'],-4,Artan,Jakupaj,,,,ZŠ Mierova Ba
+-955,955,Tomáš ,Janžo,21.3.2007,,-44,G16,-88,Reza ,Ghanizadeh,,,,"['-440', '-570']",-440,Tomáš ,Janžo,-570,Zuzana,Janžová,Priemyslená Fajnorové nábrežie
+-472,472,Massimo,Kirth,24.8.2007,,-44,G16,-88,Reza ,Ghanizadeh,,,,['-5'],-5,Juliana,Kirthová,,,,
+-1104,1104,Lukáš,Kováč,25.9.2007,,-44,G16,-88,Reza ,Ghanizadeh,,,,['-332'],-332,Peter,Kováč,,,,
+-1080,1080,Daniel ,Manas,16.10.2006,,-44,G16,-88,Reza ,Ghanizadeh,,,,['-697'],-697,Daniela,Manasová,,,,
+-902,902,Tomáš,Miklovič,20.12.2006,,-44,G16,-88,Reza ,Ghanizadeh,,,,['-362'],-362,Michal,Miklovič,,,,"Spojená škola de La Salle, Čachtická 14, 831 06"
+-473,473,Viktor,Németh,16.4.2007,,-44,G16,-88,Reza ,Ghanizadeh,,,,['-6'],-6,Katarína,Némethová,,,,
+-474,474,Martin,Pecho,29.9.2007,,-44,G16,-88,Reza ,Ghanizadeh,,,,['-7'],-7,Anna,Pechová,,,,
+-670,670,Hugo Lewis,Plant,25.5.2007,,-44,G16,-88,Reza ,Ghanizadeh,,,,['-8'],-8,Martina,Plant,,,,British International School Bratislava
+-674,674,Tomáš,Ragan,12.4.2006,radovan.ragan@zoznam.sk,-44,G16,-88,Reza ,Ghanizadeh,,,,"['-272', '-473']",-272,Radovan,Ragan,-473,Júlia,Raganová,Sš VdP Bachova
+-478,478,Tomáš,Rim,19.12.2007,,-44,G16,-88,Reza ,Ghanizadeh,,,,['-13'],-13,Iveta,Rimová,,,,
+-671,671,Tomáš,Starinský,11.4.2007,,-44,G16,-88,Reza ,Ghanizadeh,,,,['-9'],-9,Robert,Starinský,,,,
+-479,479,Jakub,Tožička,17.4.2007,,-44,G16,-88,Reza ,Ghanizadeh,,,,"['-467', '-14']",-467,,Tozickova,-14,Roman,Tozicka,
+-1088,1088,Tomáš ,Trepka,,,-44,G16,-88,Reza ,Ghanizadeh,,,,['-718'],-718,Zuzana ,Trepková,,,,
+-676,676,Šimon,Zrnek,30.7.2006,,-44,G16,-88,Reza ,Ghanizadeh,,,,['-20'],-20,Rastislav,Hadvig-Zrnek,,,,OA Dudova
+-637,637,Rostislav,Draganov,22.7.2004,,-46,G18,-39,Matúš,Moravčík,-62,Ladislav ,Babača,['-392'],-392,Liliya,Draganov,,,,
+-635,635,Kristián,Fontány,6.9.2004,,-46,G18,-39,Matúš,Moravčík,-62,Ladislav ,Babača,['-384'],-384,Schätzelová,Kaiserová,,,,
+-959,959,Lukáš ,Hájek,27.10.2005,,-46,G18,-39,Matúš,Moravčík,-62,Ladislav ,Babača,['-444'],-444,Hájek,Pavel ,,,,
+-958,958,Ľuboš ,Havránek,29.10.2005,,-46,G18,-39,Matúš,Moravčík,-62,Ladislav ,Babača,['-443'],-443,Denisa,Búš,,,,"Súkromná stredná odborné škola , Exnárova20 , Bratislava"
+-921,921,Matej,Horný,10.10.2005,,-46,G18,-39,Matúš,Moravčík,-62,Ladislav ,Babača,['-385'],-385,Stanislav,Horný,,,,Evanjelické lýceum Vranovská 2
+-629,629,Matej,KABÁT,18.8.2006,,-46,G18,-39,Matúš,Moravčík,-62,Ladislav ,Babača,['-356'],-356,Ingrid,Kabátová,,,,
+-633,633,Samuel,Kollár,19.11.2004,,-46,G18,-39,Matúš,Moravčík,-62,Ladislav ,Babača,['-374'],-374,Renáta,Kollárová,,,,
+-897,897,Ján,Kšiňan,24.2.2006,,-46,G18,-39,Matúš,Moravčík,-62,Ladislav ,Babača,['-357'],-357,Ján,Kšiňan,,,,"Gymmnázium F. Lorcu, Hronská ul, BA"
+-972,972,Martin ,Miškerík,8.12.2005,,-46,G18,-39,Matúš,Moravčík,-62,Ladislav ,Babača,['-483'],-483,Martina,Miškeríková ,,,,
+-923,923,Jakub Gildas,Mrocek,1.1.2005,,-46,G18,-39,Matúš,Moravčík,-62,Ladislav ,Babača,"['-387', '-550']",-387,Michal,Mrocek,-550,Lucia,Mrocková,Gymnázium sv. Uršule
+-971,971,Viktor ,Nemec,25.2.2005,,-46,G18,-39,Matúš,Moravčík,-62,Ladislav ,Babača,['-482'],-482,Vladimír,Nemec,,,,
+-973,973,Jakub ,Slávik,04.04.2006,,-46,G18,-39,Matúš,Moravčík,-62,Ladislav ,Babača,['-485'],-485,Roman,Slávik ,,,,
+-934,934,Nicolas,Szitas,7.7.2005,,-46,G18,-39,Matúš,Moravčík,-62,Ladislav ,Babača,"['-480', '-554']",-480,Monika,Szitasová,-554,Peter,Szitas,
+-636,636,Martin,Šimora,16.7.2004,,-46,G18,-39,Matúš,Moravčík,-62,Ladislav ,Babača,['-391'],-391,Martin,Šimora,,,,
+-974,974,Martin,Šlesárik,18.5.2006,,-46,G18,-39,Matúš,Moravčík,-62,Ladislav ,Babača,['-484'],-484,Tatiana,Šlesáriková,,,,
+-925,925,Ján,Tóth,12.2.2005,,-46,G18,-39,Matúš,Moravčík,-62,Ladislav ,Babača,['-390'],-390,Ján,Tóth,,,,Gymnázium Ivana Horvatha
+-918,918,Danylo,Vokhmin,16.7.2005,,-46,G18,-39,Matúš,Moravčík,-62,Ladislav ,Babača,['-380'],-380,,,,,,
+-933,933,Eduard,Zobok,29.09.2005,,-46,G18,-39,Matúš,Moravčík,-62,Ladislav ,Babača,['-481'],-481,Barbora,Zoboková ,,,,
+-634,634,Andrej,Žilka,11.1.2004,,-46,G18,-39,Matúš,Moravčík,-62,Ladislav ,Babača,['-381'],-381,Andrej,Žilka,,,,
+-1062,1062,Matej,Bíbel,2.2.2017,,-20,G6,-11,Mojmír,Bujna,,,,['-651'],-651,Tomáš ,Bíbel,,,,
+-1061,1061,Dominik,Brath,3.12.2017,,-20,G6,-11,Mojmír,Bujna,,,,"['-652', '-653']",-652,,Brath,-653,Silvia,Brath Topoľská,
+-1066,1066,Gregor,Čverha,13.2.2017,,-20,G6,-11,Mojmír,Bujna,,,,['-148'],-148,Pavol,Čverha,,,,
+-1053,1053,Šimon,Danek,21.8.2017,,-20,G6,-11,Mojmír,Bujna,,,,['-655'],-655,Tomáš,Danek,,,,
+-1105,1105,Adrian,Dolinay,13.9.2017,,-20,G6,-11,Mojmír,Bujna,,,,"['-734', '-735']",-734,Stanislav,Krajči,-735,Andrea,Kutlíková,
+-1099,1099,Lucas,Ďurkovič,25.9.2017,,-20,G6,-11,Mojmír,Bujna,,,,"['-728', '-729']",-728,Lukáš,Ďurkovič,-729,Alexandra,Ďurkovičová ,
+-1096,1096,Felix Filip,Hupka,,,-20,G6,-11,Mojmír,Bujna,,,,"['-724', '-725']",-724,Eva,Filipová ,-725,Radovan ,Hupka ,
+-1059,1059,Lukáš,Chabreček,7.6.2017,,-20,G6,-11,Mojmír,Bujna,,,,['-658'],-658,Miroslav,Chabreček,,,,
+-1052,1052,Leonard,Jurica,7.6.2017,,-20,G6,-11,Mojmír,Bujna,,,,['-659'],-659,Karol,Jurica,,,,
+-1101,1101,Alex,Lukáč,8.12.2017,,-20,G6,-11,Mojmír,Bujna,,,,"['-730', '-731']",-730,Klára,Nagyová,-731,Andrej,Lukáč,
+-1056,1056,Šimon,Maričák,7.3.2018,,-20,G6,-11,Mojmír,Bujna,,,,"['-209', '-642']",-209,Marian,Maričák,-642,Daniela,Maričák,
+-1098,1098,Oliver,Michalík ,,,-20,G6,-11,Mojmír,Bujna,,,,['-727'],-727,Peter ,Michalík ,,,,
+-1097,1097,Matej ,Santer ,20.3.2017,,-20,G6,-11,Mojmír,Bujna,,,,['-726'],-726,Katarín,Santerová ,,,,
+-1060,1060,Dominik,Šafář,19.9.2017,,-20,G6,-11,Mojmír,Bujna,,,,['-668'],-668,Peter,Šafář,,,,
+-1100,1100,Jakub,Urban,19.5.2017,,-20,G6,-11,Mojmír,Bujna,,,,['-685'],-685,Miroslava,Palieriková,,,,
+-986,986,Martin,Adamčík,10.06.2016,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,"['-506', '-549']",-506,Miroslav,Adamčík,-549,Daniela,Adamčíková,
+-704,704,Anton,Árvai,26.8.2016,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,['-244'],-244,Jozef,Árvai,,,,Základná škola a Gymnázium s vyučovacím jazykom maďarským
+-994,994,Boris,Baksa,11.12.2015,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,"['-530', '-531']",-530,Tomáš,Baksa,-531,Sabina,Baksa,
+-495,495,Tomáš,Baleja,10.5.2016,renatabaleja@gmail.com,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,"['-62', '-560']",-62,Gabriel,Baleja,-560,Renáta,Balejová,
+-576,576,Timotej,Dolina,9.9.2017,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,['-224'],-224,Peter,Dolina,,,,
+-992,992,Marko ,Ďurajka,8.12.2016,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,['-524'],-524,Štefan ,Ďurajka,,,,
+-995,995,Freya,Fojtlinová,27.10.2016,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,"['-532', '-533']",-532,Ferdinand,Fojtlin,-533,Dana,Bardošová,
+-804,804,Jakub,Guráň,23.3.2016,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,['-226'],-226,Tomáš,Guráň,,,,Materská škola
+-982,982,Michal,Holík,15.9.2016,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,['-501'],-501,Marek,Holík,,,,
+-569,569,Dominik,Husarčík,24.6.2016,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,['-227'],-227,Lenka,Nemsilová,,,,
+-708,708,Lukáš,Koščuš,12.11.2016,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,"['-69', '-479']",-69,Gabriel,Koščuš,-479,Marianna,Koščušová,MŠ Bancíkova
+-998,998,Lukáš,Mrocek,21.1.2016,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,"['-387', '-550']",-387,Michal,Mrocek,-550,Lucia,Mrocková,
+-991,991,Lukáš,Mundok,18.2.2016,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,"['-523', '-538']",-523,Lukáš,Mundok,-538,Kristína,Mundoková,
+-502,502,Dávid,Myšička,3.11.2016,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,['-76'],-76,Viliam,Myšička,,,,
+-711,711,Alex,Nadaždy,24.11.2016,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,['-77'],-77,Pavol,Nadazdy,,,,Skolka Stastna
+-571,571,Kucbel,Niki,8.4.2016,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,['-229'],-229,Martina,Kucbelova,,,,
+-1075,1075,Šimon ,Petrík,1.7.2016,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,['-687'],-687,Roman,Petrík,,,,
+-807,807,Daniel,Rybár,26.4.2016,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,['-231'],-231,Michal,Rybar,,,,MS Stalicova
+-1074,1074,Viktor,Smolár,20.9.2016,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,['-686'],-686,Martina,Smolárová,,,,
+-712,712,Teodor,Staňák,4.11.2016,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,['-78'],-78,Michal,Stanak,,,,
+-1020,1020,Juraj,Sukup,13.10.2016,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,"['-616', '-617']",-616,Dušan,Sukup,-617,Lucia,Sukupová,
+-1107,1107,Hugo,Velasco Espinosa,3.11.2016,,-22,G7,-41,Martin,Zužo,-69,Michal ,Staňák,['-737'],-737,Barbora,Novotná,,,,
+-1110,1110,,,,dolnak.andrej@gmail.com,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,"['-202', '-694']",-202,,,-694,,,
+-693,693,Adam,Aguado,30.10.2015,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,['-42'],-42,Julia,Aguado,,,,"Skolka - Montessori skolka, Hummelová"
+-1077,1077,Samuel ,Belovič ,6.6.2015,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,['-692'],-692,Igor,Belovič,,,,
+-1076,1076,Pavol ,Bezák ,24.2.2015,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,"['-690', '-691']",-690,Dušan,Bezák,-691,Zuzana,Bezáková,
+-488,488,Michal,Bielik,7.2.2015,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,['-43'],-43,Petra,Goldschmidtova,,,,
+-694,694,Adam,Boleman,22.10.2015,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,"['-44', '-472']",-44,Michal,Boleman,-472,Zuzana,Bolemanová,SZŠ Waldorfská
+-489,489,Samuel,Bujnovský,30.9.2015,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,['-45'],-45,Jana,Bujnovská,,,,
+-1009,1009,Lenka,Dančová,17.9.2015,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,['-422'],-422,Lenka,Lehká,,,,
+-791,791,Andrej,Dolnák,1.8.,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,"['-202', '-694']",-202,,,-694,,,"SŠ Sv. Vincenta de Paul, Bachova 4, BA"
+-490,490,Adam,Gaštan,2.11.2016,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,['-46'],-46,Silvia,Gaštanová,,,,
+-1083,1083,Adam ,Holík ,17.10.2015,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,['-707'],-707,Pavol ,Holík ,,,,
+-696,696,Adam,Jankeje,14.11.2015,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,"['-49', '-461']",-49,Adam,Jankeje,-461,Anna,Jankeje,MŠ Pavlovičova
+-492,492,Matej,Jurik,10.7.2015,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,['-51'],-51,Monika,Juríková,,,,
+-1084,1084,Mário ,Kačmarský,31.7.2015,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,['-708'],-708,Mario,Kačmarský,,,,
+-709,709,Stepan,Lipitskiy,16.1.2015,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,"['-71', '-519']",-71,Semen,Lipitskiy,-519,Oxana,Sorokina,1 rocnik Zeleznicna
+-710,710,Misko,Madari,1.3.2015,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,['-72'],-72,Michal,Madari,,,,Skolka - Stastna ulica
+-699,699,Marcel,Majerčák,14.8.2015,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,['-54'],-54,Marek,Majerčák,,,,MŠ Velehradská
+-700,700,Simon,Novosad,26.2.2015,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,"['-56', '-598']",-56,Jan,Novosad,-598,Jano,Novosad,Bajkalska
+-701,701,Daniel,Olej,8.6.2015,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,['-57'],-57,Peter,Olej,,,,ZS Ostredkova
+-702,702,Patrik,Prokop,11.9.2015,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,"['-58', '-689']",-58,Ivan,Prokop,-689,Jana,Prokopová Kovalčíková,MŠ Stálicova
+-703,703,Lukáš,Samek,27.6.2015,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,['-59'],-59,Juraj,Samek,,,,ZŠ Pavla Marcelyho
+-981,981,Richard ,Varga,11.12.2015,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,['-499'],-499,Vladimír ,Varga ,,,,
+-494,494,Timotej,Vojsovič,20.2.2015,,-24,G8,-44,Maťo,Mišík,-45,Barbora,Knapíková,"['-60', '-500']",-60,Katarína,Vojsovičová,-500,Marcel,Vojsovič,
+-481,481,Adam,Baláž,15.4.2014,,-26,G9,-10,Dominik,Polakovič,-9,Filip,Drgoňa,['-22'],-22,Veronika,Balážová,,,,
+-1008,1008,Ali,Daniel ,14.9.2014,,-26,G9,-10,Dominik,Polakovič,-9,Filip,Drgoňa,['-589'],-589,Katarín,Danielová ,,,,
+-482,482,Samuel,Diliancz,27.4.2014,,-26,G9,-10,Dominik,Polakovič,-9,Filip,Drgoňa,['-24'],-24,Alena,Dilianczova,,,,
+-680,680,Daniel,Gálik,5.10.2014,,-26,G9,-10,Dominik,Polakovič,-9,Filip,Drgoňa,"['-225', '-507']",-225,Michal,Gálik,-507,Juliana,Gáliková,"SŠ Sv. Vincenta de Paul, Bachova 4, BA"
+-484,484,Samuel,Halla,28.9.2014,,-26,G9,-10,Dominik,Polakovič,-9,Filip,Drgoňa,"['-509', '-27']",-509,Angelika,Hallová,-27,Radoslav,Halla,
+-681,681,Max,Horváth,26.2.2014,,-26,G9,-10,Dominik,Polakovič,-9,Filip,Drgoňa,['-28'],-28,Jan,Horvath,,,,Bajkalská 2
+-485,485,Tomáš,Husár,27.10.2014,,-26,G9,-10,Dominik,Polakovič,-9,Filip,Drgoňa,['-29'],-29,Mária,Husárová,,,,
+-695,695,Pavol,Jakubec,28.11.2014,,-26,G9,-10,Dominik,Polakovič,-9,Filip,Drgoňa,"['-48', '-462']",-48,Martin,Jakubec,-462,Petra,Jakubcová ,Bachova
+-1070,1070,Dominik,Kováč,25.4.2014,,-26,G9,-10,Dominik,Polakovič,-9,Filip,Drgoňa,"['-683', '-684']",-683,Júlia,Kováčová,-684,Vladimír,Kováč,
+-682,682,Teo,Krajčík,12.2.2014,klaudiahudanova@gmail.com,-26,G9,-10,Dominik,Polakovič,-9,Filip,Drgoňa,"['-30', '-582']",-30,Michal,Krajčík,-582,Klaudia,Krajčíková,Citadela (ZŠ sv. Uršuly)
+-685,685,Conorto,Noah,3.11.2014,,-26,G9,-10,Dominik,Polakovič,-9,Filip,Drgoňa,"['-34', '-695']",-34,Michaela,Conorto,-695,Roman,Conorto,"ZŠ Drienova, Pavla Marcelyho 16"
+-487,487,Filip,Saksa,6.12.2014,,-26,G9,-10,Dominik,Polakovič,-9,Filip,Drgoňa,['-35'],-35,Diana,Saksova,,,,
+-1089,1089,Martin,Stieranka,10.6.2013,,-26,G9,-10,Dominik,Polakovič,-9,Filip,Drgoňa,['-716'],-716,Martin,Stieranka,,,,
+-688,688,Viktor,Subič,12.11.2014,,-26,G9,-10,Dominik,Polakovič,-9,Filip,Drgoňa,['-38'],-38,Danijela,Subic,,,,ZŠ Pavla Marcelyho
+-692,692,Peter,Vick,10.7.2014,,-26,G9,-10,Dominik,Polakovič,-9,Filip,Drgoňa,['-41'],-41,Tomáš,Vick,,,,"ZŠ Hlboká cesta 4, Bratislava"
+-1092,1092,Janko,Testovací,,,-49,Test ,-78,Milada,Gurová,,,,[],,,,,,,
+-1091,1091,Milada,Testovacia,,,-49,Test ,-78,Milada,Gurová,,,,[],,,,,,,
+-1090,1090,Perla Liana,Adameková,18.5.2009,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-717'],-717,Kamila,Adameková,,,,
+-1014,1014,Martina,Blaho,27.8.2012,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-605'],-605,Martina,Blaho,,,,
+-926,926,Eva,BODNÁROVÁ,30.12.2013,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-394'],-394,Peter,Bodnár,,,,Galileo School
+-659,659,Veronika,BUJNOVSKÁ,13.5.2010,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-45'],-45,Jana,Bujnovská,,,,súkromná základná škola waldorfska
+-1012,1012,Lucia ,Cagalincová,26.1.2014,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,"['-129', '-596']",-129,Martin,Cagalinec,-596,Andrea,Orihelová,
+-660,660,Eliza,DELANEUVILLE,2.12.2011,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-396'],-396,Zuzana,Delaneuville,,,,ŠpMNDaG Teplická
+-661,661,Sonia,DELANEUVILLE,29.8.2015,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-396'],-396,Zuzana,Delaneuville,,,,ŠpMNDaG Teplická
+-639,639,Nina,ESZTERGALYOS,26.9.2011,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-397'],-397,Marcela,Esztergalyos Kristinova,,,,
+-1010,1010,Kiara,Fitala,23.1.2014,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,"['-130', '-592']",-130,Imrich,Fitala,-592,Katarína,Potúčková,
+-640,640,Liana,GEČEVSKÁ,27.12.2009,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-398'],-398,Silvia,gecevska,,,,
+-642,642,Natália,HAVALDOVÁ,11.1.2009,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,"['-400', '-723']",-400,Lívia,Havaldová,-723,Miloš,Havalda,
+-1015,1015,Santana,Christy,29.11.2013,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-608'],-608,Petra,Christy,,,,
+-643,643,Karolína,KOSOVÁ,9.11.2009,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,"['-402', '-669']",-402,Monika,"Kosová, Jozef Kosa",-669,Jozef,Kosa,
+-1017,1017,Nela Gréta,Krištofčáková,20.2.2011,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-610'],-610,Silvia,Krištofčáková Galatová,,,,
+-662,662,Tamarka,LABSKÁ,2.8.2013,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-419'],-419,Anežka,Lábska,,,,ZS Vrútocká 58
+-1016,1016,Silvia ,Laššáková,20.4.2012,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-609'],-609,Zuzana,Laššáková,,,,
+-663,663,Anna,LAUKOVÁ,8.3.2011,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-420'],-420,Katarina,Laukova,,,,Spojená škola Jana de la Salle
+-644,644,Michaela,LEHOCKÁ,8.4.2008,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-405'],-405,Ivana,Lehocka,,,,
+-932,932,Lucia,Leporisová,24.11.2011,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-416'],-416,Juraj,Leporis,,,,"SŠ Sv. Vincenta de Paul, Bachova 4, BA"
+-990,990,Maria,Lipitskaya,10.01.2012,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,"['-71', '-519']",-71,Semen,Lipitskiy,-519,Oxana,Sorokina,
+-645,645,Alžbeta,MASLENOVÁ,27.3.2011,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,"['-406', '-672']",-406,Martina,Maslenová,-672,Peter,Maslen ,
+-929,929,Lucia,ONDRUŠOVÁ,29.5.2012,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-408'],-408,Juraj,Ondrus,,,,ZS OStredkova
+-1094,1094,Kristína,Pitoňáková,15.11.2012,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,"['-720', '-721']",-720,Peter,Pitoňák,-721,Indgrid,Pitoňáková ,
+-997,997,Paulína,Polcová,24.02.2009,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,"['-551', '-671']",-551,Jozef,Polc,-671,Mária ,Polcová ,
+-646,646,Grétka,POTOČKOVÁ,7.6.2012,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-409'],-409,Barbora,Bilcikova,,,,
+-1086,1086,Kristína,Smolárová ,6.9.2011,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-686'],-686,Martina,Smolárová,,,,
+-647,647,Karina,SMOLOVÁ,26.3.2014,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-410'],-410,Monika,Smolova,,,,
+-664,664,Tereza,SUCHÁNKOVÁ,8.3.2010,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,"['-421', '-496']",-421,Martina,Suchánková,-496,Marian,Suchánek,Vrutocka
+-648,648,Hana,ŠIDLIKOVÁ,2.4.2011,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-412'],-412,Zuzana,Šidlíková,,,,
+-665,665,Evička,Toth,16.10.2014,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-217'],-217,Eva,Toth,,,,ZŠ Ostredková
+-649,649,Linda,VALENTOVIČOVÁ,6.3.2014,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,['-413'],-413,Silvia,Litványiová,,,,
+-1018,1018,Viktória ,Zvijačová,17.3.2014,,-45,UW,-48,Martin,Lapšanský,-49,Katarína,Poláková,"['-611', '-612']",-611,Martin,Zvijač,-612,Veronika,Zvijačová,
