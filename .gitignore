@@ -1,7 +1,7 @@
 ./edupageData
 ./python
 builder.py
-sdm_copy.csv
+sdmcopy.csv
 sdm_res_partner.csv
 sdm.csv
 stvorec-short.py

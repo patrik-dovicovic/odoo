@@ -33,4 +33,3 @@ volumes:
   odoo-web-data:
   odoo-db-data:
 
-# command: ["postgres", "-c", "listen_addresses='127.0.0.1'"]
