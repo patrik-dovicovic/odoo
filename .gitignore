@@ -1,0 +1,8 @@
+./edupageData
+./python
+builder.py
+sdm_copy.csv
+sdm_res_partner.csv
+sdm.csv
+stvorec-short.py
+stvorec.py

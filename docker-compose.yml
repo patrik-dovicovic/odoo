@@ -3,7 +3,9 @@ version: '2'
 
 services:
   web:
-    image: odoo:16.0
+    build:
+      context: .
+      dockerfile: web.Dockerfile
     entrypoint: ["odoo", "-c", "/etc/odoo/odoo.conf","-u","testovanie,sdm_respartner",]
     depends_on:
       - db
@@ -14,7 +16,11 @@ services:
       - ./config:/etc/odoo
       - ./addons:/mnt/extra-addons
   db:
-    image: postgres:13
+    build:
+      context: .
+      dockerfile: db.Dockerfile
+    ports:
+      - "19530:5432"
     environment:
       - POSTGRES_DB=postgres
       - POSTGRES_PASSWORD=odoo
@@ -22,7 +28,9 @@ services:
       - PGDATA=/var/lib/postgresql/data/pgdata
     volumes:
       - odoo-db-data:/var/lib/postgresql/data/pgdata
- 
+
 volumes:
   odoo-web-data:
   odoo-db-data:
+
+# command: ["postgres", "-c", "listen_addresses='127.0.0.1'"]

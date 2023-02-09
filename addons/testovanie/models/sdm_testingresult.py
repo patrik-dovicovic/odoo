@@ -85,3 +85,4 @@ class SdmTestingresult(models.Model):
 	_sql_constraints = [
 			('sdm_testing_results_unique', 'UNIQUE (player_id,testing_id,discipline_id)',  'Kombinacia (hrac,testovanie,disciplina) je uz vytvorena.')
 		]
+
